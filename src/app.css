@@ -1,0 +1,235 @@
+/*
+ * Design tokens + chart chrome, shared by both prototypes. Colors are CSS
+ * variables, so SVG marks set them with `style:fill`, not the `fill` attribute.
+ */
+:root {
+	color-scheme: light;
+
+	--page: #f9f9f7;
+	--surface-1: #fcfcfb;
+	--text-primary: #0b0b0b;
+	--text-secondary: #52514e;
+	--text-muted: #898781;
+	--gridline: #e1e0d9;
+	--axis: #c3c2b7;
+	--border: rgba(11, 11, 11, 0.1);
+	--hover-wash: rgba(11, 11, 11, 0.05);
+
+	/* Origin ribbons: categorical slots 1–6 in fixed order; "All other" is a neutral fold. */
+	--origin-1: #2a78d6;
+	--origin-2: #eb6834;
+	--origin-3: #1baf7a;
+	--origin-4: #eda100;
+	--origin-5: #e87ba4;
+	--origin-6: #008300;
+	--origin-7: #a3a29a;
+
+	/* Dumbbell: international = slot 7 (violet, unused by origins); domestic = neutral ink. */
+	--intl: #4a3aa7;
+	--domestic: #898781;
+
+	--node: #6f6e69;
+	--bar: #8f8e88;
+	--bar-selected: #2b2b29;
+
+	--notice-bg: #fff4d6;
+	--notice-border: #d9a400;
+	--notice-text: #4d3a00;
+}
+
+@media (prefers-color-scheme: dark) {
+	:root:not([data-theme='light']) {
+		color-scheme: dark;
+
+		--page: #0d0d0d;
+		--surface-1: #1a1a19;
+		--text-primary: #ffffff;
+		--text-secondary: #c3c2b7;
+		--text-muted: #898781;
+		--gridline: #2c2c2a;
+		--axis: #383835;
+		--border: rgba(255, 255, 255, 0.1);
+		--hover-wash: rgba(255, 255, 255, 0.06);
+
+		--origin-1: #3987e5;
+		--origin-2: #d95926;
+		--origin-3: #199e70;
+		--origin-4: #c98500;
+		--origin-5: #d55181;
+		--origin-6: #008300;
+		--origin-7: #6f6e69;
+
+		--intl: #9085e9;
+		--domestic: #a8a79f;
+
+		--node: #a8a79f;
+		--bar: #75746e;
+		--bar-selected: #f1f0ec;
+
+		--notice-bg: #2e2508;
+		--notice-border: #c98500;
+		--notice-text: #f5dfa0;
+	}
+}
+
+:root[data-theme='dark'] {
+	color-scheme: dark;
+
+	--page: #0d0d0d;
+	--surface-1: #1a1a19;
+	--text-primary: #ffffff;
+	--text-secondary: #c3c2b7;
+	--text-muted: #898781;
+	--gridline: #2c2c2a;
+	--axis: #383835;
+	--border: rgba(255, 255, 255, 0.1);
+	--hover-wash: rgba(255, 255, 255, 0.06);
+
+	--origin-1: #3987e5;
+	--origin-2: #d95926;
+	--origin-3: #199e70;
+	--origin-4: #c98500;
+	--origin-5: #d55181;
+	--origin-6: #008300;
+	--origin-7: #6f6e69;
+
+	--intl: #9085e9;
+	--domestic: #a8a79f;
+
+	--node: #a8a79f;
+	--bar: #75746e;
+	--bar-selected: #f1f0ec;
+
+	--notice-bg: #2e2508;
+	--notice-border: #c98500;
+	--notice-text: #f5dfa0;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	background: var(--page);
+	color: var(--text-primary);
+	font-family: system-ui, -apple-system, 'Segoe UI', sans-serif;
+	-webkit-font-smoothing: antialiased;
+}
+
+/* --- chart chrome ------------------------------------------------------- */
+
+.chart {
+	margin: 0;
+	min-width: 0;
+	background: var(--surface-1);
+	border: 1px solid var(--border);
+	border-radius: 10px;
+	padding: 16px 18px 12px;
+}
+
+.chart-head {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: baseline;
+	justify-content: space-between;
+	gap: 8px 16px;
+}
+
+.chart h2 {
+	margin: 0;
+	font-size: 1rem;
+	font-weight: 600;
+}
+
+.chart .caption {
+	margin: 4px 0 10px;
+	font-size: 0.8125rem;
+	line-height: 1.5;
+	color: var(--text-secondary);
+}
+
+.chart .note {
+	margin: 8px 0 0;
+	font-size: 0.75rem;
+	line-height: 1.5;
+	color: var(--text-secondary);
+}
+
+.chart svg {
+	display: block;
+	width: 100%;
+	height: auto;
+	overflow: visible;
+}
+
+.synthetic-tag {
+	display: inline-block;
+	padding: 1px 6px;
+	border: 1px solid var(--notice-border);
+	border-radius: 4px;
+	background: var(--notice-bg);
+	color: var(--notice-text);
+	font-size: 0.6875rem;
+	font-weight: 700;
+	letter-spacing: 0.04em;
+	text-transform: uppercase;
+	white-space: nowrap;
+}
+
+.axis text {
+	fill: var(--text-muted);
+	font-size: 11px;
+	font-variant-numeric: tabular-nums;
+}
+
+.halo {
+	paint-order: stroke;
+	stroke: var(--surface-1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+}
+
+/* Small segmented control used by toggles in both prototypes. */
+.seg {
+	display: inline-flex;
+	border: 1px solid var(--border);
+	border-radius: 6px;
+	overflow: hidden;
+}
+
+.seg button {
+	border: 0;
+	border-right: 1px solid var(--border);
+	background: transparent;
+	color: var(--text-secondary);
+	padding: 4px 10px;
+	font: inherit;
+	font-size: 0.8125rem;
+	cursor: pointer;
+}
+
+.seg button:last-child {
+	border-right: 0;
+}
+
+.seg button[aria-pressed='true'] {
+	background: var(--text-primary);
+	color: var(--surface-1);
+}
+
+.seg button:focus-visible,
+[role='button']:focus-visible {
+	outline: 2px solid var(--origin-1);
+	outline-offset: 1px;
+}
+
+select {
+	font: inherit;
+	font-size: 0.8125rem;
+	padding: 3px 6px;
+	border-radius: 6px;
+	border: 1px solid var(--border);
+	background: var(--surface-1);
+	color: var(--text-primary);
+}

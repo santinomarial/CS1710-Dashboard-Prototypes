@@ -1,0 +1,1821 @@
+origin,degree_level,field,industry,occupation,count
+India,Bachelor's,Computer & Information Sciences,Technology,Software developers,79
+India,Bachelor's,Computer & Information Sciences,Technology,Data scientists,73
+India,Bachelor's,Computer & Information Sciences,Technology,IT & network specialists,54
+India,Bachelor's,Computer & Information Sciences,Finance & Insurance,Financial analysts,9
+India,Bachelor's,Computer & Information Sciences,Finance & Insurance,Actuaries & quantitative analysts,5
+India,Bachelor's,Computer & Information Sciences,Finance & Insurance,Accountants & auditors,7
+India,Bachelor's,Computer & Information Sciences,Manufacturing,Mechanical & industrial engineers,3
+India,Bachelor's,Computer & Information Sciences,Manufacturing,Electrical engineers,4
+India,Bachelor's,Computer & Information Sciences,Manufacturing,Production managers,5
+India,Bachelor's,Computer & Information Sciences,Healthcare,Clinical & laboratory researchers,2
+India,Bachelor's,Computer & Information Sciences,Healthcare,Healthcare administrators,2
+India,Bachelor's,Computer & Information Sciences,Higher Education & Research,Postsecondary teachers,4
+India,Bachelor's,Computer & Information Sciences,Higher Education & Research,Research scientists,4
+India,Bachelor's,Computer & Information Sciences,Professional & Consulting Services,Management consultants,6
+India,Bachelor's,Computer & Information Sciences,Professional & Consulting Services,Economists & policy analysts,5
+India,Bachelor's,Computer & Information Sciences,Other industries,Other occupations,1
+India,Bachelor's,Engineering,Technology,Software developers,76
+India,Bachelor's,Engineering,Technology,Data scientists,25
+India,Bachelor's,Engineering,Technology,IT & network specialists,31
+India,Bachelor's,Engineering,Finance & Insurance,Financial analysts,5
+India,Bachelor's,Engineering,Finance & Insurance,Actuaries & quantitative analysts,5
+India,Bachelor's,Engineering,Finance & Insurance,Accountants & auditors,5
+India,Bachelor's,Engineering,Manufacturing,Mechanical & industrial engineers,136
+India,Bachelor's,Engineering,Manufacturing,Electrical engineers,84
+India,Bachelor's,Engineering,Manufacturing,Production managers,36
+India,Bachelor's,Engineering,Healthcare,Clinical & laboratory researchers,4
+India,Bachelor's,Engineering,Healthcare,Healthcare administrators,3
+India,Bachelor's,Engineering,Higher Education & Research,Postsecondary teachers,18
+India,Bachelor's,Engineering,Higher Education & Research,Research scientists,10
+India,Bachelor's,Engineering,Professional & Consulting Services,Management consultants,13
+India,Bachelor's,Engineering,Professional & Consulting Services,Economists & policy analysts,8
+India,Bachelor's,Engineering,Other industries,Other occupations,4
+India,Bachelor's,Business & Management,Technology,Software developers,13
+India,Bachelor's,Business & Management,Technology,Data scientists,12
+India,Bachelor's,Business & Management,Technology,IT & network specialists,11
+India,Bachelor's,Business & Management,Finance & Insurance,Financial analysts,90
+India,Bachelor's,Business & Management,Finance & Insurance,Actuaries & quantitative analysts,28
+India,Bachelor's,Business & Management,Finance & Insurance,Accountants & auditors,101
+India,Bachelor's,Business & Management,Manufacturing,Mechanical & industrial engineers,11
+India,Bachelor's,Business & Management,Manufacturing,Electrical engineers,11
+India,Bachelor's,Business & Management,Manufacturing,Production managers,22
+India,Bachelor's,Business & Management,Healthcare,Clinical & laboratory researchers,7
+India,Bachelor's,Business & Management,Healthcare,Healthcare administrators,19
+India,Bachelor's,Business & Management,Professional & Consulting Services,Management consultants,52
+India,Bachelor's,Business & Management,Professional & Consulting Services,Economists & policy analysts,29
+India,Bachelor's,Business & Management,Other industries,Other occupations,9
+India,Bachelor's,Mathematics & Statistics,Technology,Software developers,11
+India,Bachelor's,Mathematics & Statistics,Technology,Data scientists,24
+India,Bachelor's,Mathematics & Statistics,Technology,IT & network specialists,11
+India,Bachelor's,Mathematics & Statistics,Finance & Insurance,Financial analysts,15
+India,Bachelor's,Mathematics & Statistics,Finance & Insurance,Actuaries & quantitative analysts,32
+India,Bachelor's,Mathematics & Statistics,Finance & Insurance,Accountants & auditors,12
+India,Bachelor's,Mathematics & Statistics,Manufacturing,Mechanical & industrial engineers,1
+India,Bachelor's,Mathematics & Statistics,Manufacturing,Electrical engineers,1
+India,Bachelor's,Mathematics & Statistics,Manufacturing,Production managers,1
+India,Bachelor's,Mathematics & Statistics,Healthcare,Clinical & laboratory researchers,1
+India,Bachelor's,Mathematics & Statistics,Healthcare,Healthcare administrators,1
+India,Bachelor's,Mathematics & Statistics,Higher Education & Research,Postsecondary teachers,7
+India,Bachelor's,Mathematics & Statistics,Higher Education & Research,Research scientists,21
+India,Bachelor's,Mathematics & Statistics,Professional & Consulting Services,Management consultants,4
+India,Bachelor's,Mathematics & Statistics,Professional & Consulting Services,Economists & policy analysts,3
+India,Bachelor's,Life & Health Sciences,Technology,Software developers,2
+India,Bachelor's,Life & Health Sciences,Technology,Data scientists,2
+India,Bachelor's,Life & Health Sciences,Technology,IT & network specialists,3
+India,Bachelor's,Life & Health Sciences,Manufacturing,Mechanical & industrial engineers,10
+India,Bachelor's,Life & Health Sciences,Manufacturing,Electrical engineers,8
+India,Bachelor's,Life & Health Sciences,Manufacturing,Production managers,10
+India,Bachelor's,Life & Health Sciences,Healthcare,Clinical & laboratory researchers,114
+India,Bachelor's,Life & Health Sciences,Healthcare,Healthcare administrators,37
+India,Bachelor's,Life & Health Sciences,Higher Education & Research,Postsecondary teachers,25
+India,Bachelor's,Life & Health Sciences,Higher Education & Research,Research scientists,59
+India,Bachelor's,Life & Health Sciences,Professional & Consulting Services,Management consultants,2
+India,Bachelor's,Life & Health Sciences,Professional & Consulting Services,Economists & policy analysts,2
+India,Bachelor's,Life & Health Sciences,Other industries,Other occupations,7
+India,Bachelor's,Social Sciences,Technology,Software developers,2
+India,Bachelor's,Social Sciences,Technology,Data scientists,2
+India,Bachelor's,Social Sciences,Technology,IT & network specialists,3
+India,Bachelor's,Social Sciences,Finance & Insurance,Financial analysts,8
+India,Bachelor's,Social Sciences,Finance & Insurance,Actuaries & quantitative analysts,7
+India,Bachelor's,Social Sciences,Finance & Insurance,Accountants & auditors,6
+India,Bachelor's,Social Sciences,Healthcare,Clinical & laboratory researchers,5
+India,Bachelor's,Social Sciences,Healthcare,Healthcare administrators,14
+India,Bachelor's,Social Sciences,Higher Education & Research,Postsecondary teachers,9
+India,Bachelor's,Social Sciences,Higher Education & Research,Research scientists,14
+India,Bachelor's,Social Sciences,Professional & Consulting Services,Management consultants,16
+India,Bachelor's,Social Sciences,Professional & Consulting Services,Economists & policy analysts,30
+India,Bachelor's,Social Sciences,Other industries,Other occupations,8
+India,Master's,Computer & Information Sciences,Technology,Software developers,114
+India,Master's,Computer & Information Sciences,Technology,Data scientists,100
+India,Master's,Computer & Information Sciences,Technology,IT & network specialists,94
+India,Master's,Computer & Information Sciences,Finance & Insurance,Financial analysts,10
+India,Master's,Computer & Information Sciences,Finance & Insurance,Actuaries & quantitative analysts,14
+India,Master's,Computer & Information Sciences,Finance & Insurance,Accountants & auditors,15
+India,Master's,Computer & Information Sciences,Manufacturing,Mechanical & industrial engineers,6
+India,Master's,Computer & Information Sciences,Manufacturing,Electrical engineers,6
+India,Master's,Computer & Information Sciences,Manufacturing,Production managers,5
+India,Master's,Computer & Information Sciences,Healthcare,Clinical & laboratory researchers,4
+India,Master's,Computer & Information Sciences,Healthcare,Healthcare administrators,4
+India,Master's,Computer & Information Sciences,Higher Education & Research,Postsecondary teachers,8
+India,Master's,Computer & Information Sciences,Higher Education & Research,Research scientists,8
+India,Master's,Computer & Information Sciences,Professional & Consulting Services,Management consultants,9
+India,Master's,Computer & Information Sciences,Professional & Consulting Services,Economists & policy analysts,7
+India,Master's,Computer & Information Sciences,Other industries,Other occupations,3
+India,Master's,Engineering,Technology,Software developers,117
+India,Master's,Engineering,Technology,Data scientists,66
+India,Master's,Engineering,Technology,IT & network specialists,73
+India,Master's,Engineering,Finance & Insurance,Financial analysts,12
+India,Master's,Engineering,Finance & Insurance,Actuaries & quantitative analysts,9
+India,Master's,Engineering,Finance & Insurance,Accountants & auditors,9
+India,Master's,Engineering,Manufacturing,Mechanical & industrial engineers,195
+India,Master's,Engineering,Manufacturing,Electrical engineers,157
+India,Master's,Engineering,Manufacturing,Production managers,93
+India,Master's,Engineering,Healthcare,Clinical & laboratory researchers,7
+India,Master's,Engineering,Healthcare,Healthcare administrators,10
+India,Master's,Engineering,Higher Education & Research,Postsecondary teachers,24
+India,Master's,Engineering,Higher Education & Research,Research scientists,30
+India,Master's,Engineering,Professional & Consulting Services,Management consultants,18
+India,Master's,Engineering,Professional & Consulting Services,Economists & policy analysts,13
+India,Master's,Engineering,Other industries,Other occupations,7
+India,Master's,Business & Management,Technology,Software developers,17
+India,Master's,Business & Management,Technology,Data scientists,19
+India,Master's,Business & Management,Technology,IT & network specialists,24
+India,Master's,Business & Management,Finance & Insurance,Financial analysts,250
+India,Master's,Business & Management,Finance & Insurance,Actuaries & quantitative analysts,82
+India,Master's,Business & Management,Finance & Insurance,Accountants & auditors,191
+India,Master's,Business & Management,Manufacturing,Mechanical & industrial engineers,20
+India,Master's,Business & Management,Manufacturing,Electrical engineers,16
+India,Master's,Business & Management,Manufacturing,Production managers,31
+India,Master's,Business & Management,Healthcare,Clinical & laboratory researchers,10
+India,Master's,Business & Management,Healthcare,Healthcare administrators,25
+India,Master's,Business & Management,Professional & Consulting Services,Management consultants,176
+India,Master's,Business & Management,Professional & Consulting Services,Economists & policy analysts,38
+India,Master's,Business & Management,Other industries,Other occupations,14
+India,Master's,Mathematics & Statistics,Technology,Software developers,21
+India,Master's,Mathematics & Statistics,Technology,Data scientists,43
+India,Master's,Mathematics & Statistics,Technology,IT & network specialists,21
+India,Master's,Mathematics & Statistics,Finance & Insurance,Financial analysts,17
+India,Master's,Mathematics & Statistics,Finance & Insurance,Actuaries & quantitative analysts,43
+India,Master's,Mathematics & Statistics,Finance & Insurance,Accountants & auditors,18
+India,Master's,Mathematics & Statistics,Manufacturing,Mechanical & industrial engineers,1
+India,Master's,Mathematics & Statistics,Manufacturing,Electrical engineers,2
+India,Master's,Mathematics & Statistics,Manufacturing,Production managers,2
+India,Master's,Mathematics & Statistics,Healthcare,Clinical & laboratory researchers,2
+India,Master's,Mathematics & Statistics,Healthcare,Healthcare administrators,4
+India,Master's,Mathematics & Statistics,Higher Education & Research,Postsecondary teachers,11
+India,Master's,Mathematics & Statistics,Higher Education & Research,Research scientists,39
+India,Master's,Mathematics & Statistics,Professional & Consulting Services,Management consultants,6
+India,Master's,Mathematics & Statistics,Professional & Consulting Services,Economists & policy analysts,7
+India,Master's,Life & Health Sciences,Technology,Software developers,5
+India,Master's,Life & Health Sciences,Technology,Data scientists,5
+India,Master's,Life & Health Sciences,Technology,IT & network specialists,4
+India,Master's,Life & Health Sciences,Manufacturing,Mechanical & industrial engineers,17
+India,Master's,Life & Health Sciences,Manufacturing,Electrical engineers,15
+India,Master's,Life & Health Sciences,Manufacturing,Production managers,14
+India,Master's,Life & Health Sciences,Healthcare,Clinical & laboratory researchers,137
+India,Master's,Life & Health Sciences,Healthcare,Healthcare administrators,76
+India,Master's,Life & Health Sciences,Higher Education & Research,Postsecondary teachers,43
+India,Master's,Life & Health Sciences,Higher Education & Research,Research scientists,148
+India,Master's,Life & Health Sciences,Professional & Consulting Services,Management consultants,3
+India,Master's,Life & Health Sciences,Professional & Consulting Services,Economists & policy analysts,5
+India,Master's,Life & Health Sciences,Other industries,Other occupations,10
+India,Master's,Social Sciences,Technology,Software developers,7
+India,Master's,Social Sciences,Technology,Data scientists,4
+India,Master's,Social Sciences,Technology,IT & network specialists,6
+India,Master's,Social Sciences,Finance & Insurance,Financial analysts,11
+India,Master's,Social Sciences,Finance & Insurance,Actuaries & quantitative analysts,13
+India,Master's,Social Sciences,Finance & Insurance,Accountants & auditors,10
+India,Master's,Social Sciences,Healthcare,Clinical & laboratory researchers,9
+India,Master's,Social Sciences,Healthcare,Healthcare administrators,20
+India,Master's,Social Sciences,Higher Education & Research,Postsecondary teachers,20
+India,Master's,Social Sciences,Higher Education & Research,Research scientists,22
+India,Master's,Social Sciences,Professional & Consulting Services,Management consultants,18
+India,Master's,Social Sciences,Professional & Consulting Services,Economists & policy analysts,67
+India,Master's,Social Sciences,Other industries,Other occupations,15
+India,Doctorate,Computer & Information Sciences,Technology,Software developers,38
+India,Doctorate,Computer & Information Sciences,Technology,Data scientists,37
+India,Doctorate,Computer & Information Sciences,Technology,IT & network specialists,24
+India,Doctorate,Computer & Information Sciences,Finance & Insurance,Financial analysts,3
+India,Doctorate,Computer & Information Sciences,Finance & Insurance,Actuaries & quantitative analysts,2
+India,Doctorate,Computer & Information Sciences,Finance & Insurance,Accountants & auditors,4
+India,Doctorate,Computer & Information Sciences,Manufacturing,Mechanical & industrial engineers,2
+India,Doctorate,Computer & Information Sciences,Manufacturing,Electrical engineers,2
+India,Doctorate,Computer & Information Sciences,Manufacturing,Production managers,2
+India,Doctorate,Computer & Information Sciences,Healthcare,Clinical & laboratory researchers,1
+India,Doctorate,Computer & Information Sciences,Healthcare,Healthcare administrators,1
+India,Doctorate,Computer & Information Sciences,Higher Education & Research,Postsecondary teachers,1
+India,Doctorate,Computer & Information Sciences,Higher Education & Research,Research scientists,2
+India,Doctorate,Computer & Information Sciences,Professional & Consulting Services,Management consultants,3
+India,Doctorate,Computer & Information Sciences,Professional & Consulting Services,Economists & policy analysts,2
+India,Doctorate,Computer & Information Sciences,Other industries,Other occupations,1
+India,Doctorate,Engineering,Technology,Software developers,59
+India,Doctorate,Engineering,Technology,Data scientists,10
+India,Doctorate,Engineering,Technology,IT & network specialists,18
+India,Doctorate,Engineering,Finance & Insurance,Financial analysts,2
+India,Doctorate,Engineering,Finance & Insurance,Actuaries & quantitative analysts,2
+India,Doctorate,Engineering,Finance & Insurance,Accountants & auditors,3
+India,Doctorate,Engineering,Manufacturing,Mechanical & industrial engineers,40
+India,Doctorate,Engineering,Manufacturing,Electrical engineers,41
+India,Doctorate,Engineering,Manufacturing,Production managers,25
+India,Doctorate,Engineering,Healthcare,Clinical & laboratory researchers,2
+India,Doctorate,Engineering,Healthcare,Healthcare administrators,3
+India,Doctorate,Engineering,Higher Education & Research,Postsecondary teachers,6
+India,Doctorate,Engineering,Higher Education & Research,Research scientists,8
+India,Doctorate,Engineering,Professional & Consulting Services,Management consultants,4
+India,Doctorate,Engineering,Professional & Consulting Services,Economists & policy analysts,7
+India,Doctorate,Engineering,Other industries,Other occupations,2
+India,Doctorate,Business & Management,Technology,Software developers,7
+India,Doctorate,Business & Management,Technology,Data scientists,8
+India,Doctorate,Business & Management,Technology,IT & network specialists,8
+India,Doctorate,Business & Management,Finance & Insurance,Financial analysts,57
+India,Doctorate,Business & Management,Finance & Insurance,Actuaries & quantitative analysts,15
+India,Doctorate,Business & Management,Finance & Insurance,Accountants & auditors,67
+India,Doctorate,Business & Management,Manufacturing,Mechanical & industrial engineers,4
+India,Doctorate,Business & Management,Manufacturing,Electrical engineers,4
+India,Doctorate,Business & Management,Manufacturing,Production managers,11
+India,Doctorate,Business & Management,Healthcare,Clinical & laboratory researchers,4
+India,Doctorate,Business & Management,Healthcare,Healthcare administrators,13
+India,Doctorate,Business & Management,Professional & Consulting Services,Management consultants,50
+India,Doctorate,Business & Management,Professional & Consulting Services,Economists & policy analysts,15
+India,Doctorate,Business & Management,Other industries,Other occupations,4
+India,Doctorate,Mathematics & Statistics,Technology,Software developers,5
+India,Doctorate,Mathematics & Statistics,Technology,Data scientists,17
+India,Doctorate,Mathematics & Statistics,Technology,IT & network specialists,5
+India,Doctorate,Mathematics & Statistics,Finance & Insurance,Financial analysts,5
+India,Doctorate,Mathematics & Statistics,Finance & Insurance,Actuaries & quantitative analysts,21
+India,Doctorate,Mathematics & Statistics,Finance & Insurance,Accountants & auditors,5
+India,Doctorate,Mathematics & Statistics,Manufacturing,Electrical engineers,1
+India,Doctorate,Mathematics & Statistics,Manufacturing,Production managers,1
+India,Doctorate,Mathematics & Statistics,Healthcare,Clinical & laboratory researchers,1
+India,Doctorate,Mathematics & Statistics,Healthcare,Healthcare administrators,1
+India,Doctorate,Mathematics & Statistics,Higher Education & Research,Postsecondary teachers,4
+India,Doctorate,Mathematics & Statistics,Higher Education & Research,Research scientists,7
+India,Doctorate,Mathematics & Statistics,Professional & Consulting Services,Management consultants,2
+India,Doctorate,Mathematics & Statistics,Professional & Consulting Services,Economists & policy analysts,1
+India,Doctorate,Life & Health Sciences,Technology,Software developers,1
+India,Doctorate,Life & Health Sciences,Technology,Data scientists,1
+India,Doctorate,Life & Health Sciences,Technology,IT & network specialists,1
+India,Doctorate,Life & Health Sciences,Manufacturing,Mechanical & industrial engineers,3
+India,Doctorate,Life & Health Sciences,Manufacturing,Electrical engineers,3
+India,Doctorate,Life & Health Sciences,Manufacturing,Production managers,5
+India,Doctorate,Life & Health Sciences,Healthcare,Clinical & laboratory researchers,42
+India,Doctorate,Life & Health Sciences,Healthcare,Healthcare administrators,19
+India,Doctorate,Life & Health Sciences,Higher Education & Research,Postsecondary teachers,10
+India,Doctorate,Life & Health Sciences,Higher Education & Research,Research scientists,46
+India,Doctorate,Life & Health Sciences,Professional & Consulting Services,Management consultants,1
+India,Doctorate,Life & Health Sciences,Professional & Consulting Services,Economists & policy analysts,1
+India,Doctorate,Life & Health Sciences,Other industries,Other occupations,3
+India,Doctorate,Social Sciences,Technology,Software developers,2
+India,Doctorate,Social Sciences,Technology,Data scientists,1
+India,Doctorate,Social Sciences,Technology,IT & network specialists,1
+India,Doctorate,Social Sciences,Finance & Insurance,Financial analysts,3
+India,Doctorate,Social Sciences,Finance & Insurance,Actuaries & quantitative analysts,4
+India,Doctorate,Social Sciences,Finance & Insurance,Accountants & auditors,2
+India,Doctorate,Social Sciences,Healthcare,Clinical & laboratory researchers,2
+India,Doctorate,Social Sciences,Healthcare,Healthcare administrators,7
+India,Doctorate,Social Sciences,Higher Education & Research,Postsecondary teachers,7
+India,Doctorate,Social Sciences,Higher Education & Research,Research scientists,5
+India,Doctorate,Social Sciences,Professional & Consulting Services,Management consultants,5
+India,Doctorate,Social Sciences,Professional & Consulting Services,Economists & policy analysts,20
+India,Doctorate,Social Sciences,Other industries,Other occupations,5
+China,Bachelor's,Computer & Information Sciences,Technology,Software developers,335
+China,Bachelor's,Computer & Information Sciences,Technology,Data scientists,368
+China,Bachelor's,Computer & Information Sciences,Technology,IT & network specialists,341
+China,Bachelor's,Computer & Information Sciences,Finance & Insurance,Financial analysts,37
+China,Bachelor's,Computer & Information Sciences,Finance & Insurance,Actuaries & quantitative analysts,30
+China,Bachelor's,Computer & Information Sciences,Finance & Insurance,Accountants & auditors,34
+China,Bachelor's,Computer & Information Sciences,Manufacturing,Mechanical & industrial engineers,13
+China,Bachelor's,Computer & Information Sciences,Manufacturing,Electrical engineers,11
+China,Bachelor's,Computer & Information Sciences,Manufacturing,Production managers,15
+China,Bachelor's,Computer & Information Sciences,Healthcare,Clinical & laboratory researchers,7
+China,Bachelor's,Computer & Information Sciences,Healthcare,Healthcare administrators,8
+China,Bachelor's,Computer & Information Sciences,Higher Education & Research,Postsecondary teachers,11
+China,Bachelor's,Computer & Information Sciences,Higher Education & Research,Research scientists,15
+China,Bachelor's,Computer & Information Sciences,Professional & Consulting Services,Management consultants,25
+China,Bachelor's,Computer & Information Sciences,Professional & Consulting Services,Economists & policy analysts,16
+China,Bachelor's,Computer & Information Sciences,Other industries,Other occupations,7
+China,Bachelor's,Engineering,Technology,Software developers,179
+China,Bachelor's,Engineering,Technology,Data scientists,62
+China,Bachelor's,Engineering,Technology,IT & network specialists,37
+China,Bachelor's,Engineering,Finance & Insurance,Financial analysts,10
+China,Bachelor's,Engineering,Finance & Insurance,Actuaries & quantitative analysts,9
+China,Bachelor's,Engineering,Finance & Insurance,Accountants & auditors,9
+China,Bachelor's,Engineering,Manufacturing,Mechanical & industrial engineers,247
+China,Bachelor's,Engineering,Manufacturing,Electrical engineers,228
+China,Bachelor's,Engineering,Manufacturing,Production managers,83
+China,Bachelor's,Engineering,Healthcare,Clinical & laboratory researchers,8
+China,Bachelor's,Engineering,Healthcare,Healthcare administrators,6
+China,Bachelor's,Engineering,Higher Education & Research,Postsecondary teachers,22
+China,Bachelor's,Engineering,Higher Education & Research,Research scientists,30
+China,Bachelor's,Engineering,Professional & Consulting Services,Management consultants,15
+China,Bachelor's,Engineering,Professional & Consulting Services,Economists & policy analysts,16
+China,Bachelor's,Engineering,Other industries,Other occupations,9
+China,Bachelor's,Business & Management,Technology,Software developers,29
+China,Bachelor's,Business & Management,Technology,Data scientists,23
+China,Bachelor's,Business & Management,Technology,IT & network specialists,30
+China,Bachelor's,Business & Management,Finance & Insurance,Financial analysts,170
+China,Bachelor's,Business & Management,Finance & Insurance,Actuaries & quantitative analysts,63
+China,Bachelor's,Business & Management,Finance & Insurance,Accountants & auditors,137
+China,Bachelor's,Business & Management,Manufacturing,Mechanical & industrial engineers,12
+China,Bachelor's,Business & Management,Manufacturing,Electrical engineers,14
+China,Bachelor's,Business & Management,Manufacturing,Production managers,48
+China,Bachelor's,Business & Management,Healthcare,Clinical & laboratory researchers,13
+China,Bachelor's,Business & Management,Healthcare,Healthcare administrators,28
+China,Bachelor's,Business & Management,Professional & Consulting Services,Management consultants,149
+China,Bachelor's,Business & Management,Professional & Consulting Services,Economists & policy analysts,31
+China,Bachelor's,Business & Management,Other industries,Other occupations,18
+China,Bachelor's,Mathematics & Statistics,Technology,Software developers,10
+China,Bachelor's,Mathematics & Statistics,Technology,Data scientists,43
+China,Bachelor's,Mathematics & Statistics,Technology,IT & network specialists,13
+China,Bachelor's,Mathematics & Statistics,Finance & Insurance,Financial analysts,14
+China,Bachelor's,Mathematics & Statistics,Finance & Insurance,Actuaries & quantitative analysts,42
+China,Bachelor's,Mathematics & Statistics,Finance & Insurance,Accountants & auditors,9
+China,Bachelor's,Mathematics & Statistics,Manufacturing,Mechanical & industrial engineers,2
+China,Bachelor's,Mathematics & Statistics,Manufacturing,Electrical engineers,1
+China,Bachelor's,Mathematics & Statistics,Manufacturing,Production managers,1
+China,Bachelor's,Mathematics & Statistics,Healthcare,Clinical & laboratory researchers,2
+China,Bachelor's,Mathematics & Statistics,Healthcare,Healthcare administrators,3
+China,Bachelor's,Mathematics & Statistics,Higher Education & Research,Postsecondary teachers,5
+China,Bachelor's,Mathematics & Statistics,Higher Education & Research,Research scientists,15
+China,Bachelor's,Mathematics & Statistics,Professional & Consulting Services,Management consultants,5
+China,Bachelor's,Mathematics & Statistics,Professional & Consulting Services,Economists & policy analysts,5
+China,Bachelor's,Life & Health Sciences,Technology,Software developers,2
+China,Bachelor's,Life & Health Sciences,Technology,Data scientists,3
+China,Bachelor's,Life & Health Sciences,Technology,IT & network specialists,2
+China,Bachelor's,Life & Health Sciences,Manufacturing,Mechanical & industrial engineers,8
+China,Bachelor's,Life & Health Sciences,Manufacturing,Electrical engineers,10
+China,Bachelor's,Life & Health Sciences,Manufacturing,Production managers,8
+China,Bachelor's,Life & Health Sciences,Healthcare,Clinical & laboratory researchers,105
+China,Bachelor's,Life & Health Sciences,Healthcare,Healthcare administrators,27
+China,Bachelor's,Life & Health Sciences,Higher Education & Research,Postsecondary teachers,21
+China,Bachelor's,Life & Health Sciences,Higher Education & Research,Research scientists,64
+China,Bachelor's,Life & Health Sciences,Professional & Consulting Services,Management consultants,2
+China,Bachelor's,Life & Health Sciences,Professional & Consulting Services,Economists & policy analysts,3
+China,Bachelor's,Life & Health Sciences,Other industries,Other occupations,6
+China,Bachelor's,Social Sciences,Technology,Software developers,8
+China,Bachelor's,Social Sciences,Technology,Data scientists,5
+China,Bachelor's,Social Sciences,Technology,IT & network specialists,7
+China,Bachelor's,Social Sciences,Finance & Insurance,Financial analysts,15
+China,Bachelor's,Social Sciences,Finance & Insurance,Actuaries & quantitative analysts,14
+China,Bachelor's,Social Sciences,Finance & Insurance,Accountants & auditors,15
+China,Bachelor's,Social Sciences,Healthcare,Clinical & laboratory researchers,10
+China,Bachelor's,Social Sciences,Healthcare,Healthcare administrators,34
+China,Bachelor's,Social Sciences,Higher Education & Research,Postsecondary teachers,41
+China,Bachelor's,Social Sciences,Higher Education & Research,Research scientists,37
+China,Bachelor's,Social Sciences,Professional & Consulting Services,Management consultants,28
+China,Bachelor's,Social Sciences,Professional & Consulting Services,Economists & policy analysts,124
+China,Bachelor's,Social Sciences,Other industries,Other occupations,29
+China,Master's,Computer & Information Sciences,Technology,Software developers,613
+China,Master's,Computer & Information Sciences,Technology,Data scientists,615
+China,Master's,Computer & Information Sciences,Technology,IT & network specialists,434
+China,Master's,Computer & Information Sciences,Finance & Insurance,Financial analysts,73
+China,Master's,Computer & Information Sciences,Finance & Insurance,Actuaries & quantitative analysts,57
+China,Master's,Computer & Information Sciences,Finance & Insurance,Accountants & auditors,57
+China,Master's,Computer & Information Sciences,Manufacturing,Mechanical & industrial engineers,27
+China,Master's,Computer & Information Sciences,Manufacturing,Electrical engineers,29
+China,Master's,Computer & Information Sciences,Manufacturing,Production managers,30
+China,Master's,Computer & Information Sciences,Healthcare,Clinical & laboratory researchers,18
+China,Master's,Computer & Information Sciences,Healthcare,Healthcare administrators,14
+China,Master's,Computer & Information Sciences,Higher Education & Research,Postsecondary teachers,18
+China,Master's,Computer & Information Sciences,Higher Education & Research,Research scientists,21
+China,Master's,Computer & Information Sciences,Professional & Consulting Services,Management consultants,49
+China,Master's,Computer & Information Sciences,Professional & Consulting Services,Economists & policy analysts,43
+China,Master's,Computer & Information Sciences,Other industries,Other occupations,15
+China,Master's,Engineering,Technology,Software developers,209
+China,Master's,Engineering,Technology,Data scientists,97
+China,Master's,Engineering,Technology,IT & network specialists,87
+China,Master's,Engineering,Finance & Insurance,Financial analysts,18
+China,Master's,Engineering,Finance & Insurance,Actuaries & quantitative analysts,17
+China,Master's,Engineering,Finance & Insurance,Accountants & auditors,16
+China,Master's,Engineering,Manufacturing,Mechanical & industrial engineers,441
+China,Master's,Engineering,Manufacturing,Electrical engineers,410
+China,Master's,Engineering,Manufacturing,Production managers,117
+China,Master's,Engineering,Healthcare,Clinical & laboratory researchers,18
+China,Master's,Engineering,Healthcare,Healthcare administrators,16
+China,Master's,Engineering,Higher Education & Research,Postsecondary teachers,29
+China,Master's,Engineering,Higher Education & Research,Research scientists,40
+China,Master's,Engineering,Professional & Consulting Services,Management consultants,28
+China,Master's,Engineering,Professional & Consulting Services,Economists & policy analysts,21
+China,Master's,Engineering,Other industries,Other occupations,19
+China,Master's,Business & Management,Technology,Software developers,46
+China,Master's,Business & Management,Technology,Data scientists,35
+China,Master's,Business & Management,Technology,IT & network specialists,46
+China,Master's,Business & Management,Finance & Insurance,Financial analysts,287
+China,Master's,Business & Management,Finance & Insurance,Actuaries & quantitative analysts,130
+China,Master's,Business & Management,Finance & Insurance,Accountants & auditors,339
+China,Master's,Business & Management,Manufacturing,Mechanical & industrial engineers,22
+China,Master's,Business & Management,Manufacturing,Electrical engineers,36
+China,Master's,Business & Management,Manufacturing,Production managers,79
+China,Master's,Business & Management,Healthcare,Clinical & laboratory researchers,19
+China,Master's,Business & Management,Healthcare,Healthcare administrators,83
+China,Master's,Business & Management,Professional & Consulting Services,Management consultants,311
+China,Master's,Business & Management,Professional & Consulting Services,Economists & policy analysts,74
+China,Master's,Business & Management,Other industries,Other occupations,24
+China,Master's,Mathematics & Statistics,Technology,Software developers,19
+China,Master's,Mathematics & Statistics,Technology,Data scientists,72
+China,Master's,Mathematics & Statistics,Technology,IT & network specialists,15
+China,Master's,Mathematics & Statistics,Finance & Insurance,Financial analysts,16
+China,Master's,Mathematics & Statistics,Finance & Insurance,Actuaries & quantitative analysts,89
+China,Master's,Mathematics & Statistics,Finance & Insurance,Accountants & auditors,30
+China,Master's,Mathematics & Statistics,Manufacturing,Mechanical & industrial engineers,3
+China,Master's,Mathematics & Statistics,Manufacturing,Electrical engineers,2
+China,Master's,Mathematics & Statistics,Manufacturing,Production managers,3
+China,Master's,Mathematics & Statistics,Healthcare,Clinical & laboratory researchers,5
+China,Master's,Mathematics & Statistics,Healthcare,Healthcare administrators,4
+China,Master's,Mathematics & Statistics,Higher Education & Research,Postsecondary teachers,9
+China,Master's,Mathematics & Statistics,Higher Education & Research,Research scientists,40
+China,Master's,Mathematics & Statistics,Professional & Consulting Services,Management consultants,6
+China,Master's,Mathematics & Statistics,Professional & Consulting Services,Economists & policy analysts,8
+China,Master's,Life & Health Sciences,Technology,Software developers,6
+China,Master's,Life & Health Sciences,Technology,Data scientists,6
+China,Master's,Life & Health Sciences,Technology,IT & network specialists,3
+China,Master's,Life & Health Sciences,Manufacturing,Mechanical & industrial engineers,10
+China,Master's,Life & Health Sciences,Manufacturing,Electrical engineers,11
+China,Master's,Life & Health Sciences,Manufacturing,Production managers,15
+China,Master's,Life & Health Sciences,Healthcare,Clinical & laboratory researchers,165
+China,Master's,Life & Health Sciences,Healthcare,Healthcare administrators,66
+China,Master's,Life & Health Sciences,Higher Education & Research,Postsecondary teachers,56
+China,Master's,Life & Health Sciences,Higher Education & Research,Research scientists,112
+China,Master's,Life & Health Sciences,Professional & Consulting Services,Management consultants,4
+China,Master's,Life & Health Sciences,Professional & Consulting Services,Economists & policy analysts,4
+China,Master's,Life & Health Sciences,Other industries,Other occupations,12
+China,Master's,Social Sciences,Technology,Software developers,16
+China,Master's,Social Sciences,Technology,Data scientists,19
+China,Master's,Social Sciences,Technology,IT & network specialists,12
+China,Master's,Social Sciences,Finance & Insurance,Financial analysts,25
+China,Master's,Social Sciences,Finance & Insurance,Actuaries & quantitative analysts,23
+China,Master's,Social Sciences,Finance & Insurance,Accountants & auditors,22
+China,Master's,Social Sciences,Healthcare,Clinical & laboratory researchers,26
+China,Master's,Social Sciences,Healthcare,Healthcare administrators,82
+China,Master's,Social Sciences,Higher Education & Research,Postsecondary teachers,47
+China,Master's,Social Sciences,Higher Education & Research,Research scientists,47
+China,Master's,Social Sciences,Professional & Consulting Services,Management consultants,71
+China,Master's,Social Sciences,Professional & Consulting Services,Economists & policy analysts,215
+China,Master's,Social Sciences,Other industries,Other occupations,55
+China,Doctorate,Computer & Information Sciences,Technology,Software developers,110
+China,Doctorate,Computer & Information Sciences,Technology,Data scientists,120
+China,Doctorate,Computer & Information Sciences,Technology,IT & network specialists,152
+China,Doctorate,Computer & Information Sciences,Finance & Insurance,Financial analysts,13
+China,Doctorate,Computer & Information Sciences,Finance & Insurance,Actuaries & quantitative analysts,10
+China,Doctorate,Computer & Information Sciences,Finance & Insurance,Accountants & auditors,11
+China,Doctorate,Computer & Information Sciences,Manufacturing,Mechanical & industrial engineers,6
+China,Doctorate,Computer & Information Sciences,Manufacturing,Electrical engineers,5
+China,Doctorate,Computer & Information Sciences,Manufacturing,Production managers,9
+China,Doctorate,Computer & Information Sciences,Healthcare,Clinical & laboratory researchers,4
+China,Doctorate,Computer & Information Sciences,Healthcare,Healthcare administrators,4
+China,Doctorate,Computer & Information Sciences,Higher Education & Research,Postsecondary teachers,10
+China,Doctorate,Computer & Information Sciences,Higher Education & Research,Research scientists,7
+China,Doctorate,Computer & Information Sciences,Professional & Consulting Services,Management consultants,10
+China,Doctorate,Computer & Information Sciences,Professional & Consulting Services,Economists & policy analysts,8
+China,Doctorate,Computer & Information Sciences,Other industries,Other occupations,3
+China,Doctorate,Engineering,Technology,Software developers,53
+China,Doctorate,Engineering,Technology,Data scientists,28
+China,Doctorate,Engineering,Technology,IT & network specialists,19
+China,Doctorate,Engineering,Finance & Insurance,Financial analysts,4
+China,Doctorate,Engineering,Finance & Insurance,Actuaries & quantitative analysts,3
+China,Doctorate,Engineering,Finance & Insurance,Accountants & auditors,5
+China,Doctorate,Engineering,Manufacturing,Mechanical & industrial engineers,97
+China,Doctorate,Engineering,Manufacturing,Electrical engineers,76
+China,Doctorate,Engineering,Manufacturing,Production managers,38
+China,Doctorate,Engineering,Healthcare,Clinical & laboratory researchers,3
+China,Doctorate,Engineering,Healthcare,Healthcare administrators,3
+China,Doctorate,Engineering,Higher Education & Research,Postsecondary teachers,13
+China,Doctorate,Engineering,Higher Education & Research,Research scientists,10
+China,Doctorate,Engineering,Professional & Consulting Services,Management consultants,7
+China,Doctorate,Engineering,Professional & Consulting Services,Economists & policy analysts,5
+China,Doctorate,Engineering,Other industries,Other occupations,4
+China,Doctorate,Business & Management,Technology,Software developers,11
+China,Doctorate,Business & Management,Technology,Data scientists,8
+China,Doctorate,Business & Management,Technology,IT & network specialists,8
+China,Doctorate,Business & Management,Finance & Insurance,Financial analysts,106
+China,Doctorate,Business & Management,Finance & Insurance,Actuaries & quantitative analysts,24
+China,Doctorate,Business & Management,Finance & Insurance,Accountants & auditors,86
+China,Doctorate,Business & Management,Manufacturing,Mechanical & industrial engineers,7
+China,Doctorate,Business & Management,Manufacturing,Electrical engineers,9
+China,Doctorate,Business & Management,Manufacturing,Production managers,14
+China,Doctorate,Business & Management,Healthcare,Clinical & laboratory researchers,6
+China,Doctorate,Business & Management,Healthcare,Healthcare administrators,17
+China,Doctorate,Business & Management,Professional & Consulting Services,Management consultants,83
+China,Doctorate,Business & Management,Professional & Consulting Services,Economists & policy analysts,17
+China,Doctorate,Business & Management,Other industries,Other occupations,7
+China,Doctorate,Mathematics & Statistics,Technology,Software developers,5
+China,Doctorate,Mathematics & Statistics,Technology,Data scientists,16
+China,Doctorate,Mathematics & Statistics,Technology,IT & network specialists,5
+China,Doctorate,Mathematics & Statistics,Finance & Insurance,Financial analysts,6
+China,Doctorate,Mathematics & Statistics,Finance & Insurance,Actuaries & quantitative analysts,18
+China,Doctorate,Mathematics & Statistics,Finance & Insurance,Accountants & auditors,4
+China,Doctorate,Mathematics & Statistics,Manufacturing,Mechanical & industrial engineers,1
+China,Doctorate,Mathematics & Statistics,Manufacturing,Electrical engineers,1
+China,Doctorate,Mathematics & Statistics,Manufacturing,Production managers,1
+China,Doctorate,Mathematics & Statistics,Healthcare,Clinical & laboratory researchers,1
+China,Doctorate,Mathematics & Statistics,Healthcare,Healthcare administrators,1
+China,Doctorate,Mathematics & Statistics,Higher Education & Research,Postsecondary teachers,3
+China,Doctorate,Mathematics & Statistics,Higher Education & Research,Research scientists,9
+China,Doctorate,Mathematics & Statistics,Professional & Consulting Services,Management consultants,2
+China,Doctorate,Mathematics & Statistics,Professional & Consulting Services,Economists & policy analysts,2
+China,Doctorate,Life & Health Sciences,Technology,Software developers,1
+China,Doctorate,Life & Health Sciences,Technology,Data scientists,1
+China,Doctorate,Life & Health Sciences,Technology,IT & network specialists,1
+China,Doctorate,Life & Health Sciences,Manufacturing,Mechanical & industrial engineers,4
+China,Doctorate,Life & Health Sciences,Manufacturing,Electrical engineers,5
+China,Doctorate,Life & Health Sciences,Manufacturing,Production managers,4
+China,Doctorate,Life & Health Sciences,Healthcare,Clinical & laboratory researchers,38
+China,Doctorate,Life & Health Sciences,Healthcare,Healthcare administrators,17
+China,Doctorate,Life & Health Sciences,Higher Education & Research,Postsecondary teachers,10
+China,Doctorate,Life & Health Sciences,Higher Education & Research,Research scientists,24
+China,Doctorate,Life & Health Sciences,Professional & Consulting Services,Management consultants,1
+China,Doctorate,Life & Health Sciences,Professional & Consulting Services,Economists & policy analysts,1
+China,Doctorate,Life & Health Sciences,Other industries,Other occupations,2
+China,Doctorate,Social Sciences,Technology,Software developers,4
+China,Doctorate,Social Sciences,Technology,Data scientists,4
+China,Doctorate,Social Sciences,Technology,IT & network specialists,4
+China,Doctorate,Social Sciences,Finance & Insurance,Financial analysts,6
+China,Doctorate,Social Sciences,Finance & Insurance,Actuaries & quantitative analysts,8
+China,Doctorate,Social Sciences,Finance & Insurance,Accountants & auditors,6
+China,Doctorate,Social Sciences,Healthcare,Clinical & laboratory researchers,6
+China,Doctorate,Social Sciences,Healthcare,Healthcare administrators,22
+China,Doctorate,Social Sciences,Higher Education & Research,Postsecondary teachers,13
+China,Doctorate,Social Sciences,Higher Education & Research,Research scientists,16
+China,Doctorate,Social Sciences,Professional & Consulting Services,Management consultants,15
+China,Doctorate,Social Sciences,Professional & Consulting Services,Economists & policy analysts,71
+China,Doctorate,Social Sciences,Other industries,Other occupations,11
+South Korea,Bachelor's,Computer & Information Sciences,Technology,Software developers,54
+South Korea,Bachelor's,Computer & Information Sciences,Technology,Data scientists,78
+South Korea,Bachelor's,Computer & Information Sciences,Technology,IT & network specialists,66
+South Korea,Bachelor's,Computer & Information Sciences,Finance & Insurance,Financial analysts,9
+South Korea,Bachelor's,Computer & Information Sciences,Finance & Insurance,Actuaries & quantitative analysts,8
+South Korea,Bachelor's,Computer & Information Sciences,Finance & Insurance,Accountants & auditors,5
+South Korea,Bachelor's,Computer & Information Sciences,Manufacturing,Mechanical & industrial engineers,4
+South Korea,Bachelor's,Computer & Information Sciences,Manufacturing,Electrical engineers,3
+South Korea,Bachelor's,Computer & Information Sciences,Manufacturing,Production managers,4
+South Korea,Bachelor's,Computer & Information Sciences,Healthcare,Clinical & laboratory researchers,2
+South Korea,Bachelor's,Computer & Information Sciences,Healthcare,Healthcare administrators,1
+South Korea,Bachelor's,Computer & Information Sciences,Higher Education & Research,Postsecondary teachers,3
+South Korea,Bachelor's,Computer & Information Sciences,Higher Education & Research,Research scientists,4
+South Korea,Bachelor's,Computer & Information Sciences,Professional & Consulting Services,Management consultants,4
+South Korea,Bachelor's,Computer & Information Sciences,Professional & Consulting Services,Economists & policy analysts,6
+South Korea,Bachelor's,Computer & Information Sciences,Other industries,Other occupations,2
+South Korea,Bachelor's,Engineering,Technology,Software developers,30
+South Korea,Bachelor's,Engineering,Technology,Data scientists,9
+South Korea,Bachelor's,Engineering,Technology,IT & network specialists,9
+South Korea,Bachelor's,Engineering,Finance & Insurance,Financial analysts,1
+South Korea,Bachelor's,Engineering,Finance & Insurance,Actuaries & quantitative analysts,2
+South Korea,Bachelor's,Engineering,Finance & Insurance,Accountants & auditors,1
+South Korea,Bachelor's,Engineering,Manufacturing,Mechanical & industrial engineers,28
+South Korea,Bachelor's,Engineering,Manufacturing,Electrical engineers,37
+South Korea,Bachelor's,Engineering,Manufacturing,Production managers,15
+South Korea,Bachelor's,Engineering,Healthcare,Clinical & laboratory researchers,2
+South Korea,Bachelor's,Engineering,Healthcare,Healthcare administrators,2
+South Korea,Bachelor's,Engineering,Higher Education & Research,Postsecondary teachers,6
+South Korea,Bachelor's,Engineering,Higher Education & Research,Research scientists,4
+South Korea,Bachelor's,Engineering,Professional & Consulting Services,Management consultants,2
+South Korea,Bachelor's,Engineering,Professional & Consulting Services,Economists & policy analysts,3
+South Korea,Bachelor's,Engineering,Other industries,Other occupations,1
+South Korea,Bachelor's,Business & Management,Technology,Software developers,9
+South Korea,Bachelor's,Business & Management,Technology,Data scientists,11
+South Korea,Bachelor's,Business & Management,Technology,IT & network specialists,7
+South Korea,Bachelor's,Business & Management,Finance & Insurance,Financial analysts,56
+South Korea,Bachelor's,Business & Management,Finance & Insurance,Actuaries & quantitative analysts,21
+South Korea,Bachelor's,Business & Management,Finance & Insurance,Accountants & auditors,69
+South Korea,Bachelor's,Business & Management,Manufacturing,Mechanical & industrial engineers,4
+South Korea,Bachelor's,Business & Management,Manufacturing,Electrical engineers,6
+South Korea,Bachelor's,Business & Management,Manufacturing,Production managers,18
+South Korea,Bachelor's,Business & Management,Healthcare,Clinical & laboratory researchers,4
+South Korea,Bachelor's,Business & Management,Healthcare,Healthcare administrators,17
+South Korea,Bachelor's,Business & Management,Professional & Consulting Services,Management consultants,64
+South Korea,Bachelor's,Business & Management,Professional & Consulting Services,Economists & policy analysts,21
+South Korea,Bachelor's,Business & Management,Other industries,Other occupations,7
+South Korea,Bachelor's,Mathematics & Statistics,Technology,Software developers,13
+South Korea,Bachelor's,Mathematics & Statistics,Technology,Data scientists,48
+South Korea,Bachelor's,Mathematics & Statistics,Technology,IT & network specialists,18
+South Korea,Bachelor's,Mathematics & Statistics,Finance & Insurance,Financial analysts,18
+South Korea,Bachelor's,Mathematics & Statistics,Finance & Insurance,Actuaries & quantitative analysts,49
+South Korea,Bachelor's,Mathematics & Statistics,Finance & Insurance,Accountants & auditors,17
+South Korea,Bachelor's,Mathematics & Statistics,Manufacturing,Mechanical & industrial engineers,1
+South Korea,Bachelor's,Mathematics & Statistics,Manufacturing,Electrical engineers,2
+South Korea,Bachelor's,Mathematics & Statistics,Manufacturing,Production managers,2
+South Korea,Bachelor's,Mathematics & Statistics,Healthcare,Clinical & laboratory researchers,2
+South Korea,Bachelor's,Mathematics & Statistics,Healthcare,Healthcare administrators,2
+South Korea,Bachelor's,Mathematics & Statistics,Higher Education & Research,Postsecondary teachers,11
+South Korea,Bachelor's,Mathematics & Statistics,Higher Education & Research,Research scientists,31
+South Korea,Bachelor's,Mathematics & Statistics,Professional & Consulting Services,Management consultants,5
+South Korea,Bachelor's,Mathematics & Statistics,Professional & Consulting Services,Economists & policy analysts,5
+South Korea,Bachelor's,Life & Health Sciences,Technology,Software developers,1
+South Korea,Bachelor's,Life & Health Sciences,Technology,Data scientists,1
+South Korea,Bachelor's,Life & Health Sciences,Technology,IT & network specialists,1
+South Korea,Bachelor's,Life & Health Sciences,Manufacturing,Mechanical & industrial engineers,4
+South Korea,Bachelor's,Life & Health Sciences,Manufacturing,Electrical engineers,5
+South Korea,Bachelor's,Life & Health Sciences,Manufacturing,Production managers,3
+South Korea,Bachelor's,Life & Health Sciences,Healthcare,Clinical & laboratory researchers,59
+South Korea,Bachelor's,Life & Health Sciences,Healthcare,Healthcare administrators,20
+South Korea,Bachelor's,Life & Health Sciences,Higher Education & Research,Postsecondary teachers,15
+South Korea,Bachelor's,Life & Health Sciences,Higher Education & Research,Research scientists,46
+South Korea,Bachelor's,Life & Health Sciences,Professional & Consulting Services,Management consultants,1
+South Korea,Bachelor's,Life & Health Sciences,Professional & Consulting Services,Economists & policy analysts,1
+South Korea,Bachelor's,Life & Health Sciences,Other industries,Other occupations,3
+South Korea,Bachelor's,Social Sciences,Technology,Software developers,2
+South Korea,Bachelor's,Social Sciences,Technology,Data scientists,2
+South Korea,Bachelor's,Social Sciences,Technology,IT & network specialists,1
+South Korea,Bachelor's,Social Sciences,Finance & Insurance,Financial analysts,3
+South Korea,Bachelor's,Social Sciences,Finance & Insurance,Actuaries & quantitative analysts,2
+South Korea,Bachelor's,Social Sciences,Finance & Insurance,Accountants & auditors,3
+South Korea,Bachelor's,Social Sciences,Healthcare,Clinical & laboratory researchers,3
+South Korea,Bachelor's,Social Sciences,Healthcare,Healthcare administrators,6
+South Korea,Bachelor's,Social Sciences,Higher Education & Research,Postsecondary teachers,4
+South Korea,Bachelor's,Social Sciences,Higher Education & Research,Research scientists,5
+South Korea,Bachelor's,Social Sciences,Professional & Consulting Services,Management consultants,9
+South Korea,Bachelor's,Social Sciences,Professional & Consulting Services,Economists & policy analysts,21
+South Korea,Bachelor's,Social Sciences,Other industries,Other occupations,5
+South Korea,Master's,Computer & Information Sciences,Technology,Software developers,125
+South Korea,Master's,Computer & Information Sciences,Technology,Data scientists,123
+South Korea,Master's,Computer & Information Sciences,Technology,IT & network specialists,95
+South Korea,Master's,Computer & Information Sciences,Finance & Insurance,Financial analysts,9
+South Korea,Master's,Computer & Information Sciences,Finance & Insurance,Actuaries & quantitative analysts,16
+South Korea,Master's,Computer & Information Sciences,Finance & Insurance,Accountants & auditors,16
+South Korea,Master's,Computer & Information Sciences,Manufacturing,Mechanical & industrial engineers,6
+South Korea,Master's,Computer & Information Sciences,Manufacturing,Electrical engineers,7
+South Korea,Master's,Computer & Information Sciences,Manufacturing,Production managers,7
+South Korea,Master's,Computer & Information Sciences,Healthcare,Clinical & laboratory researchers,2
+South Korea,Master's,Computer & Information Sciences,Healthcare,Healthcare administrators,3
+South Korea,Master's,Computer & Information Sciences,Higher Education & Research,Postsecondary teachers,6
+South Korea,Master's,Computer & Information Sciences,Higher Education & Research,Research scientists,8
+South Korea,Master's,Computer & Information Sciences,Professional & Consulting Services,Management consultants,9
+South Korea,Master's,Computer & Information Sciences,Professional & Consulting Services,Economists & policy analysts,9
+South Korea,Master's,Computer & Information Sciences,Other industries,Other occupations,4
+South Korea,Master's,Engineering,Technology,Software developers,56
+South Korea,Master's,Engineering,Technology,Data scientists,18
+South Korea,Master's,Engineering,Technology,IT & network specialists,22
+South Korea,Master's,Engineering,Finance & Insurance,Financial analysts,4
+South Korea,Master's,Engineering,Finance & Insurance,Actuaries & quantitative analysts,3
+South Korea,Master's,Engineering,Finance & Insurance,Accountants & auditors,3
+South Korea,Master's,Engineering,Manufacturing,Mechanical & industrial engineers,86
+South Korea,Master's,Engineering,Manufacturing,Electrical engineers,94
+South Korea,Master's,Engineering,Manufacturing,Production managers,21
+South Korea,Master's,Engineering,Healthcare,Clinical & laboratory researchers,4
+South Korea,Master's,Engineering,Healthcare,Healthcare administrators,4
+South Korea,Master's,Engineering,Higher Education & Research,Postsecondary teachers,11
+South Korea,Master's,Engineering,Higher Education & Research,Research scientists,11
+South Korea,Master's,Engineering,Professional & Consulting Services,Management consultants,4
+South Korea,Master's,Engineering,Professional & Consulting Services,Economists & policy analysts,5
+South Korea,Master's,Engineering,Other industries,Other occupations,3
+South Korea,Master's,Business & Management,Technology,Software developers,20
+South Korea,Master's,Business & Management,Technology,Data scientists,20
+South Korea,Master's,Business & Management,Technology,IT & network specialists,12
+South Korea,Master's,Business & Management,Finance & Insurance,Financial analysts,95
+South Korea,Master's,Business & Management,Finance & Insurance,Actuaries & quantitative analysts,42
+South Korea,Master's,Business & Management,Finance & Insurance,Accountants & auditors,144
+South Korea,Master's,Business & Management,Manufacturing,Mechanical & industrial engineers,14
+South Korea,Master's,Business & Management,Manufacturing,Electrical engineers,14
+South Korea,Master's,Business & Management,Manufacturing,Production managers,31
+South Korea,Master's,Business & Management,Healthcare,Clinical & laboratory researchers,7
+South Korea,Master's,Business & Management,Healthcare,Healthcare administrators,26
+South Korea,Master's,Business & Management,Professional & Consulting Services,Management consultants,104
+South Korea,Master's,Business & Management,Professional & Consulting Services,Economists & policy analysts,33
+South Korea,Master's,Business & Management,Other industries,Other occupations,11
+South Korea,Master's,Mathematics & Statistics,Technology,Software developers,16
+South Korea,Master's,Mathematics & Statistics,Technology,Data scientists,74
+South Korea,Master's,Mathematics & Statistics,Technology,IT & network specialists,30
+South Korea,Master's,Mathematics & Statistics,Finance & Insurance,Financial analysts,20
+South Korea,Master's,Mathematics & Statistics,Finance & Insurance,Actuaries & quantitative analysts,63
+South Korea,Master's,Mathematics & Statistics,Finance & Insurance,Accountants & auditors,24
+South Korea,Master's,Mathematics & Statistics,Manufacturing,Mechanical & industrial engineers,3
+South Korea,Master's,Mathematics & Statistics,Manufacturing,Electrical engineers,3
+South Korea,Master's,Mathematics & Statistics,Manufacturing,Production managers,3
+South Korea,Master's,Mathematics & Statistics,Healthcare,Clinical & laboratory researchers,3
+South Korea,Master's,Mathematics & Statistics,Healthcare,Healthcare administrators,5
+South Korea,Master's,Mathematics & Statistics,Higher Education & Research,Postsecondary teachers,13
+South Korea,Master's,Mathematics & Statistics,Higher Education & Research,Research scientists,45
+South Korea,Master's,Mathematics & Statistics,Professional & Consulting Services,Management consultants,11
+South Korea,Master's,Mathematics & Statistics,Professional & Consulting Services,Economists & policy analysts,6
+South Korea,Master's,Life & Health Sciences,Technology,Software developers,3
+South Korea,Master's,Life & Health Sciences,Technology,Data scientists,2
+South Korea,Master's,Life & Health Sciences,Technology,IT & network specialists,2
+South Korea,Master's,Life & Health Sciences,Manufacturing,Mechanical & industrial engineers,9
+South Korea,Master's,Life & Health Sciences,Manufacturing,Electrical engineers,6
+South Korea,Master's,Life & Health Sciences,Manufacturing,Production managers,6
+South Korea,Master's,Life & Health Sciences,Healthcare,Clinical & laboratory researchers,102
+South Korea,Master's,Life & Health Sciences,Healthcare,Healthcare administrators,35
+South Korea,Master's,Life & Health Sciences,Higher Education & Research,Postsecondary teachers,24
+South Korea,Master's,Life & Health Sciences,Higher Education & Research,Research scientists,72
+South Korea,Master's,Life & Health Sciences,Professional & Consulting Services,Management consultants,2
+South Korea,Master's,Life & Health Sciences,Professional & Consulting Services,Economists & policy analysts,3
+South Korea,Master's,Life & Health Sciences,Other industries,Other occupations,6
+South Korea,Master's,Social Sciences,Technology,Software developers,3
+South Korea,Master's,Social Sciences,Technology,Data scientists,2
+South Korea,Master's,Social Sciences,Technology,IT & network specialists,3
+South Korea,Master's,Social Sciences,Finance & Insurance,Financial analysts,4
+South Korea,Master's,Social Sciences,Finance & Insurance,Actuaries & quantitative analysts,5
+South Korea,Master's,Social Sciences,Finance & Insurance,Accountants & auditors,6
+South Korea,Master's,Social Sciences,Healthcare,Clinical & laboratory researchers,4
+South Korea,Master's,Social Sciences,Healthcare,Healthcare administrators,10
+South Korea,Master's,Social Sciences,Higher Education & Research,Postsecondary teachers,13
+South Korea,Master's,Social Sciences,Higher Education & Research,Research scientists,10
+South Korea,Master's,Social Sciences,Professional & Consulting Services,Management consultants,17
+South Korea,Master's,Social Sciences,Professional & Consulting Services,Economists & policy analysts,34
+South Korea,Master's,Social Sciences,Other industries,Other occupations,9
+South Korea,Doctorate,Computer & Information Sciences,Technology,Software developers,31
+South Korea,Doctorate,Computer & Information Sciences,Technology,Data scientists,36
+South Korea,Doctorate,Computer & Information Sciences,Technology,IT & network specialists,21
+South Korea,Doctorate,Computer & Information Sciences,Finance & Insurance,Financial analysts,3
+South Korea,Doctorate,Computer & Information Sciences,Finance & Insurance,Actuaries & quantitative analysts,2
+South Korea,Doctorate,Computer & Information Sciences,Finance & Insurance,Accountants & auditors,4
+South Korea,Doctorate,Computer & Information Sciences,Manufacturing,Mechanical & industrial engineers,1
+South Korea,Doctorate,Computer & Information Sciences,Manufacturing,Electrical engineers,2
+South Korea,Doctorate,Computer & Information Sciences,Manufacturing,Production managers,1
+South Korea,Doctorate,Computer & Information Sciences,Healthcare,Clinical & laboratory researchers,1
+South Korea,Doctorate,Computer & Information Sciences,Healthcare,Healthcare administrators,1
+South Korea,Doctorate,Computer & Information Sciences,Higher Education & Research,Postsecondary teachers,2
+South Korea,Doctorate,Computer & Information Sciences,Higher Education & Research,Research scientists,2
+South Korea,Doctorate,Computer & Information Sciences,Professional & Consulting Services,Management consultants,3
+South Korea,Doctorate,Computer & Information Sciences,Professional & Consulting Services,Economists & policy analysts,3
+South Korea,Doctorate,Computer & Information Sciences,Other industries,Other occupations,1
+South Korea,Doctorate,Engineering,Technology,Software developers,16
+South Korea,Doctorate,Engineering,Technology,Data scientists,6
+South Korea,Doctorate,Engineering,Technology,IT & network specialists,4
+South Korea,Doctorate,Engineering,Finance & Insurance,Financial analysts,1
+South Korea,Doctorate,Engineering,Finance & Insurance,Actuaries & quantitative analysts,1
+South Korea,Doctorate,Engineering,Finance & Insurance,Accountants & auditors,1
+South Korea,Doctorate,Engineering,Manufacturing,Mechanical & industrial engineers,15
+South Korea,Doctorate,Engineering,Manufacturing,Electrical engineers,19
+South Korea,Doctorate,Engineering,Manufacturing,Production managers,7
+South Korea,Doctorate,Engineering,Healthcare,Clinical & laboratory researchers,1
+South Korea,Doctorate,Engineering,Healthcare,Healthcare administrators,1
+South Korea,Doctorate,Engineering,Higher Education & Research,Postsecondary teachers,2
+South Korea,Doctorate,Engineering,Higher Education & Research,Research scientists,2
+South Korea,Doctorate,Engineering,Professional & Consulting Services,Management consultants,2
+South Korea,Doctorate,Engineering,Professional & Consulting Services,Economists & policy analysts,2
+South Korea,Doctorate,Engineering,Other industries,Other occupations,1
+South Korea,Doctorate,Business & Management,Technology,Software developers,5
+South Korea,Doctorate,Business & Management,Technology,Data scientists,5
+South Korea,Doctorate,Business & Management,Technology,IT & network specialists,5
+South Korea,Doctorate,Business & Management,Finance & Insurance,Financial analysts,38
+South Korea,Doctorate,Business & Management,Finance & Insurance,Actuaries & quantitative analysts,12
+South Korea,Doctorate,Business & Management,Finance & Insurance,Accountants & auditors,46
+South Korea,Doctorate,Business & Management,Manufacturing,Mechanical & industrial engineers,2
+South Korea,Doctorate,Business & Management,Manufacturing,Electrical engineers,2
+South Korea,Doctorate,Business & Management,Manufacturing,Production managers,9
+South Korea,Doctorate,Business & Management,Healthcare,Clinical & laboratory researchers,2
+South Korea,Doctorate,Business & Management,Healthcare,Healthcare administrators,9
+South Korea,Doctorate,Business & Management,Professional & Consulting Services,Management consultants,29
+South Korea,Doctorate,Business & Management,Professional & Consulting Services,Economists & policy analysts,11
+South Korea,Doctorate,Business & Management,Other industries,Other occupations,3
+South Korea,Doctorate,Mathematics & Statistics,Technology,Software developers,7
+South Korea,Doctorate,Mathematics & Statistics,Technology,Data scientists,17
+South Korea,Doctorate,Mathematics & Statistics,Technology,IT & network specialists,7
+South Korea,Doctorate,Mathematics & Statistics,Finance & Insurance,Financial analysts,10
+South Korea,Doctorate,Mathematics & Statistics,Finance & Insurance,Actuaries & quantitative analysts,21
+South Korea,Doctorate,Mathematics & Statistics,Finance & Insurance,Accountants & auditors,10
+South Korea,Doctorate,Mathematics & Statistics,Manufacturing,Mechanical & industrial engineers,1
+South Korea,Doctorate,Mathematics & Statistics,Manufacturing,Electrical engineers,1
+South Korea,Doctorate,Mathematics & Statistics,Manufacturing,Production managers,1
+South Korea,Doctorate,Mathematics & Statistics,Healthcare,Clinical & laboratory researchers,1
+South Korea,Doctorate,Mathematics & Statistics,Healthcare,Healthcare administrators,2
+South Korea,Doctorate,Mathematics & Statistics,Higher Education & Research,Postsecondary teachers,3
+South Korea,Doctorate,Mathematics & Statistics,Higher Education & Research,Research scientists,9
+South Korea,Doctorate,Mathematics & Statistics,Professional & Consulting Services,Management consultants,2
+South Korea,Doctorate,Mathematics & Statistics,Professional & Consulting Services,Economists & policy analysts,2
+South Korea,Doctorate,Life & Health Sciences,Technology,Software developers,1
+South Korea,Doctorate,Life & Health Sciences,Technology,Data scientists,1
+South Korea,Doctorate,Life & Health Sciences,Technology,IT & network specialists,1
+South Korea,Doctorate,Life & Health Sciences,Manufacturing,Mechanical & industrial engineers,2
+South Korea,Doctorate,Life & Health Sciences,Manufacturing,Electrical engineers,2
+South Korea,Doctorate,Life & Health Sciences,Manufacturing,Production managers,2
+South Korea,Doctorate,Life & Health Sciences,Healthcare,Clinical & laboratory researchers,22
+South Korea,Doctorate,Life & Health Sciences,Healthcare,Healthcare administrators,9
+South Korea,Doctorate,Life & Health Sciences,Higher Education & Research,Postsecondary teachers,4
+South Korea,Doctorate,Life & Health Sciences,Higher Education & Research,Research scientists,17
+South Korea,Doctorate,Life & Health Sciences,Professional & Consulting Services,Management consultants,1
+South Korea,Doctorate,Life & Health Sciences,Professional & Consulting Services,Economists & policy analysts,1
+South Korea,Doctorate,Life & Health Sciences,Other industries,Other occupations,1
+South Korea,Doctorate,Social Sciences,Technology,Software developers,1
+South Korea,Doctorate,Social Sciences,Technology,Data scientists,1
+South Korea,Doctorate,Social Sciences,Technology,IT & network specialists,1
+South Korea,Doctorate,Social Sciences,Finance & Insurance,Financial analysts,1
+South Korea,Doctorate,Social Sciences,Finance & Insurance,Actuaries & quantitative analysts,1
+South Korea,Doctorate,Social Sciences,Finance & Insurance,Accountants & auditors,1
+South Korea,Doctorate,Social Sciences,Healthcare,Clinical & laboratory researchers,1
+South Korea,Doctorate,Social Sciences,Healthcare,Healthcare administrators,5
+South Korea,Doctorate,Social Sciences,Higher Education & Research,Postsecondary teachers,3
+South Korea,Doctorate,Social Sciences,Higher Education & Research,Research scientists,4
+South Korea,Doctorate,Social Sciences,Professional & Consulting Services,Management consultants,3
+South Korea,Doctorate,Social Sciences,Professional & Consulting Services,Economists & policy analysts,8
+South Korea,Doctorate,Social Sciences,Other industries,Other occupations,2
+Nigeria,Bachelor's,Computer & Information Sciences,Technology,Software developers,82
+Nigeria,Bachelor's,Computer & Information Sciences,Technology,Data scientists,64
+Nigeria,Bachelor's,Computer & Information Sciences,Technology,IT & network specialists,124
+Nigeria,Bachelor's,Computer & Information Sciences,Finance & Insurance,Financial analysts,13
+Nigeria,Bachelor's,Computer & Information Sciences,Finance & Insurance,Actuaries & quantitative analysts,9
+Nigeria,Bachelor's,Computer & Information Sciences,Finance & Insurance,Accountants & auditors,11
+Nigeria,Bachelor's,Computer & Information Sciences,Manufacturing,Mechanical & industrial engineers,4
+Nigeria,Bachelor's,Computer & Information Sciences,Manufacturing,Electrical engineers,4
+Nigeria,Bachelor's,Computer & Information Sciences,Manufacturing,Production managers,4
+Nigeria,Bachelor's,Computer & Information Sciences,Healthcare,Clinical & laboratory researchers,3
+Nigeria,Bachelor's,Computer & Information Sciences,Healthcare,Healthcare administrators,2
+Nigeria,Bachelor's,Computer & Information Sciences,Higher Education & Research,Postsecondary teachers,5
+Nigeria,Bachelor's,Computer & Information Sciences,Higher Education & Research,Research scientists,4
+Nigeria,Bachelor's,Computer & Information Sciences,Professional & Consulting Services,Management consultants,8
+Nigeria,Bachelor's,Computer & Information Sciences,Professional & Consulting Services,Economists & policy analysts,9
+Nigeria,Bachelor's,Computer & Information Sciences,Other industries,Other occupations,3
+Nigeria,Bachelor's,Engineering,Technology,Software developers,98
+Nigeria,Bachelor's,Engineering,Technology,Data scientists,31
+Nigeria,Bachelor's,Engineering,Technology,IT & network specialists,17
+Nigeria,Bachelor's,Engineering,Finance & Insurance,Financial analysts,4
+Nigeria,Bachelor's,Engineering,Finance & Insurance,Actuaries & quantitative analysts,5
+Nigeria,Bachelor's,Engineering,Finance & Insurance,Accountants & auditors,4
+Nigeria,Bachelor's,Engineering,Manufacturing,Mechanical & industrial engineers,79
+Nigeria,Bachelor's,Engineering,Manufacturing,Electrical engineers,85
+Nigeria,Bachelor's,Engineering,Manufacturing,Production managers,38
+Nigeria,Bachelor's,Engineering,Healthcare,Clinical & laboratory researchers,3
+Nigeria,Bachelor's,Engineering,Healthcare,Healthcare administrators,4
+Nigeria,Bachelor's,Engineering,Higher Education & Research,Postsecondary teachers,11
+Nigeria,Bachelor's,Engineering,Higher Education & Research,Research scientists,17
+Nigeria,Bachelor's,Engineering,Professional & Consulting Services,Management consultants,8
+Nigeria,Bachelor's,Engineering,Professional & Consulting Services,Economists & policy analysts,10
+Nigeria,Bachelor's,Engineering,Other industries,Other occupations,3
+Nigeria,Bachelor's,Business & Management,Technology,Software developers,7
+Nigeria,Bachelor's,Business & Management,Technology,Data scientists,6
+Nigeria,Bachelor's,Business & Management,Technology,IT & network specialists,5
+Nigeria,Bachelor's,Business & Management,Finance & Insurance,Financial analysts,61
+Nigeria,Bachelor's,Business & Management,Finance & Insurance,Actuaries & quantitative analysts,20
+Nigeria,Bachelor's,Business & Management,Finance & Insurance,Accountants & auditors,49
+Nigeria,Bachelor's,Business & Management,Manufacturing,Mechanical & industrial engineers,3
+Nigeria,Bachelor's,Business & Management,Manufacturing,Electrical engineers,4
+Nigeria,Bachelor's,Business & Management,Manufacturing,Production managers,11
+Nigeria,Bachelor's,Business & Management,Healthcare,Clinical & laboratory researchers,3
+Nigeria,Bachelor's,Business & Management,Healthcare,Healthcare administrators,12
+Nigeria,Bachelor's,Business & Management,Professional & Consulting Services,Management consultants,38
+Nigeria,Bachelor's,Business & Management,Professional & Consulting Services,Economists & policy analysts,10
+Nigeria,Bachelor's,Business & Management,Other industries,Other occupations,3
+Nigeria,Bachelor's,Mathematics & Statistics,Technology,Software developers,7
+Nigeria,Bachelor's,Mathematics & Statistics,Technology,Data scientists,22
+Nigeria,Bachelor's,Mathematics & Statistics,Technology,IT & network specialists,6
+Nigeria,Bachelor's,Mathematics & Statistics,Finance & Insurance,Financial analysts,6
+Nigeria,Bachelor's,Mathematics & Statistics,Finance & Insurance,Actuaries & quantitative analysts,23
+Nigeria,Bachelor's,Mathematics & Statistics,Finance & Insurance,Accountants & auditors,8
+Nigeria,Bachelor's,Mathematics & Statistics,Manufacturing,Mechanical & industrial engineers,1
+Nigeria,Bachelor's,Mathematics & Statistics,Manufacturing,Electrical engineers,1
+Nigeria,Bachelor's,Mathematics & Statistics,Manufacturing,Production managers,1
+Nigeria,Bachelor's,Mathematics & Statistics,Healthcare,Clinical & laboratory researchers,1
+Nigeria,Bachelor's,Mathematics & Statistics,Healthcare,Healthcare administrators,1
+Nigeria,Bachelor's,Mathematics & Statistics,Higher Education & Research,Postsecondary teachers,5
+Nigeria,Bachelor's,Mathematics & Statistics,Higher Education & Research,Research scientists,12
+Nigeria,Bachelor's,Mathematics & Statistics,Professional & Consulting Services,Management consultants,2
+Nigeria,Bachelor's,Mathematics & Statistics,Professional & Consulting Services,Economists & policy analysts,3
+Nigeria,Bachelor's,Life & Health Sciences,Technology,Software developers,3
+Nigeria,Bachelor's,Life & Health Sciences,Technology,Data scientists,2
+Nigeria,Bachelor's,Life & Health Sciences,Technology,IT & network specialists,2
+Nigeria,Bachelor's,Life & Health Sciences,Manufacturing,Mechanical & industrial engineers,7
+Nigeria,Bachelor's,Life & Health Sciences,Manufacturing,Electrical engineers,10
+Nigeria,Bachelor's,Life & Health Sciences,Manufacturing,Production managers,6
+Nigeria,Bachelor's,Life & Health Sciences,Healthcare,Clinical & laboratory researchers,87
+Nigeria,Bachelor's,Life & Health Sciences,Healthcare,Healthcare administrators,38
+Nigeria,Bachelor's,Life & Health Sciences,Higher Education & Research,Postsecondary teachers,18
+Nigeria,Bachelor's,Life & Health Sciences,Higher Education & Research,Research scientists,65
+Nigeria,Bachelor's,Life & Health Sciences,Professional & Consulting Services,Management consultants,3
+Nigeria,Bachelor's,Life & Health Sciences,Professional & Consulting Services,Economists & policy analysts,2
+Nigeria,Bachelor's,Life & Health Sciences,Other industries,Other occupations,4
+Nigeria,Bachelor's,Social Sciences,Technology,Software developers,3
+Nigeria,Bachelor's,Social Sciences,Technology,Data scientists,4
+Nigeria,Bachelor's,Social Sciences,Technology,IT & network specialists,5
+Nigeria,Bachelor's,Social Sciences,Finance & Insurance,Financial analysts,10
+Nigeria,Bachelor's,Social Sciences,Finance & Insurance,Actuaries & quantitative analysts,8
+Nigeria,Bachelor's,Social Sciences,Finance & Insurance,Accountants & auditors,11
+Nigeria,Bachelor's,Social Sciences,Healthcare,Clinical & laboratory researchers,8
+Nigeria,Bachelor's,Social Sciences,Healthcare,Healthcare administrators,17
+Nigeria,Bachelor's,Social Sciences,Higher Education & Research,Postsecondary teachers,13
+Nigeria,Bachelor's,Social Sciences,Higher Education & Research,Research scientists,14
+Nigeria,Bachelor's,Social Sciences,Professional & Consulting Services,Management consultants,22
+Nigeria,Bachelor's,Social Sciences,Professional & Consulting Services,Economists & policy analysts,65
+Nigeria,Bachelor's,Social Sciences,Other industries,Other occupations,18
+Nigeria,Master's,Computer & Information Sciences,Technology,Software developers,128
+Nigeria,Master's,Computer & Information Sciences,Technology,Data scientists,154
+Nigeria,Master's,Computer & Information Sciences,Technology,IT & network specialists,150
+Nigeria,Master's,Computer & Information Sciences,Finance & Insurance,Financial analysts,15
+Nigeria,Master's,Computer & Information Sciences,Finance & Insurance,Actuaries & quantitative analysts,22
+Nigeria,Master's,Computer & Information Sciences,Finance & Insurance,Accountants & auditors,15
+Nigeria,Master's,Computer & Information Sciences,Manufacturing,Mechanical & industrial engineers,7
+Nigeria,Master's,Computer & Information Sciences,Manufacturing,Electrical engineers,8
+Nigeria,Master's,Computer & Information Sciences,Manufacturing,Production managers,7
+Nigeria,Master's,Computer & Information Sciences,Healthcare,Clinical & laboratory researchers,6
+Nigeria,Master's,Computer & Information Sciences,Healthcare,Healthcare administrators,5
+Nigeria,Master's,Computer & Information Sciences,Higher Education & Research,Postsecondary teachers,11
+Nigeria,Master's,Computer & Information Sciences,Higher Education & Research,Research scientists,10
+Nigeria,Master's,Computer & Information Sciences,Professional & Consulting Services,Management consultants,17
+Nigeria,Master's,Computer & Information Sciences,Professional & Consulting Services,Economists & policy analysts,15
+Nigeria,Master's,Computer & Information Sciences,Other industries,Other occupations,5
+Nigeria,Master's,Engineering,Technology,Software developers,144
+Nigeria,Master's,Engineering,Technology,Data scientists,52
+Nigeria,Master's,Engineering,Technology,IT & network specialists,31
+Nigeria,Master's,Engineering,Finance & Insurance,Financial analysts,7
+Nigeria,Master's,Engineering,Finance & Insurance,Actuaries & quantitative analysts,8
+Nigeria,Master's,Engineering,Finance & Insurance,Accountants & auditors,9
+Nigeria,Master's,Engineering,Manufacturing,Mechanical & industrial engineers,124
+Nigeria,Master's,Engineering,Manufacturing,Electrical engineers,240
+Nigeria,Master's,Engineering,Manufacturing,Production managers,80
+Nigeria,Master's,Engineering,Healthcare,Clinical & laboratory researchers,5
+Nigeria,Master's,Engineering,Healthcare,Healthcare administrators,9
+Nigeria,Master's,Engineering,Higher Education & Research,Postsecondary teachers,22
+Nigeria,Master's,Engineering,Higher Education & Research,Research scientists,22
+Nigeria,Master's,Engineering,Professional & Consulting Services,Management consultants,10
+Nigeria,Master's,Engineering,Professional & Consulting Services,Economists & policy analysts,12
+Nigeria,Master's,Engineering,Other industries,Other occupations,10
+Nigeria,Master's,Business & Management,Technology,Software developers,11
+Nigeria,Master's,Business & Management,Technology,Data scientists,10
+Nigeria,Master's,Business & Management,Technology,IT & network specialists,15
+Nigeria,Master's,Business & Management,Finance & Insurance,Financial analysts,94
+Nigeria,Master's,Business & Management,Finance & Insurance,Actuaries & quantitative analysts,28
+Nigeria,Master's,Business & Management,Finance & Insurance,Accountants & auditors,78
+Nigeria,Master's,Business & Management,Manufacturing,Mechanical & industrial engineers,8
+Nigeria,Master's,Business & Management,Manufacturing,Electrical engineers,8
+Nigeria,Master's,Business & Management,Manufacturing,Production managers,21
+Nigeria,Master's,Business & Management,Healthcare,Clinical & laboratory researchers,7
+Nigeria,Master's,Business & Management,Healthcare,Healthcare administrators,21
+Nigeria,Master's,Business & Management,Professional & Consulting Services,Management consultants,86
+Nigeria,Master's,Business & Management,Professional & Consulting Services,Economists & policy analysts,24
+Nigeria,Master's,Business & Management,Other industries,Other occupations,8
+Nigeria,Master's,Mathematics & Statistics,Technology,Software developers,10
+Nigeria,Master's,Mathematics & Statistics,Technology,Data scientists,38
+Nigeria,Master's,Mathematics & Statistics,Technology,IT & network specialists,8
+Nigeria,Master's,Mathematics & Statistics,Finance & Insurance,Financial analysts,14
+Nigeria,Master's,Mathematics & Statistics,Finance & Insurance,Actuaries & quantitative analysts,33
+Nigeria,Master's,Mathematics & Statistics,Finance & Insurance,Accountants & auditors,13
+Nigeria,Master's,Mathematics & Statistics,Manufacturing,Mechanical & industrial engineers,1
+Nigeria,Master's,Mathematics & Statistics,Manufacturing,Electrical engineers,1
+Nigeria,Master's,Mathematics & Statistics,Manufacturing,Production managers,1
+Nigeria,Master's,Mathematics & Statistics,Healthcare,Clinical & laboratory researchers,2
+Nigeria,Master's,Mathematics & Statistics,Healthcare,Healthcare administrators,2
+Nigeria,Master's,Mathematics & Statistics,Higher Education & Research,Postsecondary teachers,7
+Nigeria,Master's,Mathematics & Statistics,Higher Education & Research,Research scientists,18
+Nigeria,Master's,Mathematics & Statistics,Professional & Consulting Services,Management consultants,5
+Nigeria,Master's,Mathematics & Statistics,Professional & Consulting Services,Economists & policy analysts,3
+Nigeria,Master's,Life & Health Sciences,Technology,Software developers,4
+Nigeria,Master's,Life & Health Sciences,Technology,Data scientists,3
+Nigeria,Master's,Life & Health Sciences,Technology,IT & network specialists,5
+Nigeria,Master's,Life & Health Sciences,Manufacturing,Mechanical & industrial engineers,16
+Nigeria,Master's,Life & Health Sciences,Manufacturing,Electrical engineers,12
+Nigeria,Master's,Life & Health Sciences,Manufacturing,Production managers,15
+Nigeria,Master's,Life & Health Sciences,Healthcare,Clinical & laboratory researchers,208
+Nigeria,Master's,Life & Health Sciences,Healthcare,Healthcare administrators,58
+Nigeria,Master's,Life & Health Sciences,Higher Education & Research,Postsecondary teachers,37
+Nigeria,Master's,Life & Health Sciences,Higher Education & Research,Research scientists,131
+Nigeria,Master's,Life & Health Sciences,Professional & Consulting Services,Management consultants,5
+Nigeria,Master's,Life & Health Sciences,Professional & Consulting Services,Economists & policy analysts,5
+Nigeria,Master's,Life & Health Sciences,Other industries,Other occupations,6
+Nigeria,Master's,Social Sciences,Technology,Software developers,7
+Nigeria,Master's,Social Sciences,Technology,Data scientists,8
+Nigeria,Master's,Social Sciences,Technology,IT & network specialists,8
+Nigeria,Master's,Social Sciences,Finance & Insurance,Financial analysts,20
+Nigeria,Master's,Social Sciences,Finance & Insurance,Actuaries & quantitative analysts,19
+Nigeria,Master's,Social Sciences,Finance & Insurance,Accountants & auditors,21
+Nigeria,Master's,Social Sciences,Healthcare,Clinical & laboratory researchers,15
+Nigeria,Master's,Social Sciences,Healthcare,Healthcare administrators,34
+Nigeria,Master's,Social Sciences,Higher Education & Research,Postsecondary teachers,25
+Nigeria,Master's,Social Sciences,Higher Education & Research,Research scientists,21
+Nigeria,Master's,Social Sciences,Professional & Consulting Services,Management consultants,45
+Nigeria,Master's,Social Sciences,Professional & Consulting Services,Economists & policy analysts,126
+Nigeria,Master's,Social Sciences,Other industries,Other occupations,22
+Nigeria,Doctorate,Computer & Information Sciences,Technology,Software developers,34
+Nigeria,Doctorate,Computer & Information Sciences,Technology,Data scientists,60
+Nigeria,Doctorate,Computer & Information Sciences,Technology,IT & network specialists,35
+Nigeria,Doctorate,Computer & Information Sciences,Finance & Insurance,Financial analysts,7
+Nigeria,Doctorate,Computer & Information Sciences,Finance & Insurance,Actuaries & quantitative analysts,7
+Nigeria,Doctorate,Computer & Information Sciences,Finance & Insurance,Accountants & auditors,5
+Nigeria,Doctorate,Computer & Information Sciences,Manufacturing,Mechanical & industrial engineers,3
+Nigeria,Doctorate,Computer & Information Sciences,Manufacturing,Electrical engineers,3
+Nigeria,Doctorate,Computer & Information Sciences,Manufacturing,Production managers,2
+Nigeria,Doctorate,Computer & Information Sciences,Healthcare,Clinical & laboratory researchers,1
+Nigeria,Doctorate,Computer & Information Sciences,Healthcare,Healthcare administrators,1
+Nigeria,Doctorate,Computer & Information Sciences,Higher Education & Research,Postsecondary teachers,2
+Nigeria,Doctorate,Computer & Information Sciences,Higher Education & Research,Research scientists,3
+Nigeria,Doctorate,Computer & Information Sciences,Professional & Consulting Services,Management consultants,4
+Nigeria,Doctorate,Computer & Information Sciences,Professional & Consulting Services,Economists & policy analysts,4
+Nigeria,Doctorate,Computer & Information Sciences,Other industries,Other occupations,2
+Nigeria,Doctorate,Engineering,Technology,Software developers,42
+Nigeria,Doctorate,Engineering,Technology,Data scientists,9
+Nigeria,Doctorate,Engineering,Technology,IT & network specialists,14
+Nigeria,Doctorate,Engineering,Finance & Insurance,Financial analysts,2
+Nigeria,Doctorate,Engineering,Finance & Insurance,Actuaries & quantitative analysts,3
+Nigeria,Doctorate,Engineering,Finance & Insurance,Accountants & auditors,2
+Nigeria,Doctorate,Engineering,Manufacturing,Mechanical & industrial engineers,58
+Nigeria,Doctorate,Engineering,Manufacturing,Electrical engineers,34
+Nigeria,Doctorate,Engineering,Manufacturing,Production managers,22
+Nigeria,Doctorate,Engineering,Healthcare,Clinical & laboratory researchers,2
+Nigeria,Doctorate,Engineering,Healthcare,Healthcare administrators,3
+Nigeria,Doctorate,Engineering,Higher Education & Research,Postsecondary teachers,4
+Nigeria,Doctorate,Engineering,Higher Education & Research,Research scientists,5
+Nigeria,Doctorate,Engineering,Professional & Consulting Services,Management consultants,4
+Nigeria,Doctorate,Engineering,Professional & Consulting Services,Economists & policy analysts,3
+Nigeria,Doctorate,Engineering,Other industries,Other occupations,3
+Nigeria,Doctorate,Business & Management,Technology,Software developers,4
+Nigeria,Doctorate,Business & Management,Technology,Data scientists,3
+Nigeria,Doctorate,Business & Management,Technology,IT & network specialists,2
+Nigeria,Doctorate,Business & Management,Finance & Insurance,Financial analysts,31
+Nigeria,Doctorate,Business & Management,Finance & Insurance,Actuaries & quantitative analysts,10
+Nigeria,Doctorate,Business & Management,Finance & Insurance,Accountants & auditors,20
+Nigeria,Doctorate,Business & Management,Manufacturing,Mechanical & industrial engineers,2
+Nigeria,Doctorate,Business & Management,Manufacturing,Electrical engineers,2
+Nigeria,Doctorate,Business & Management,Manufacturing,Production managers,7
+Nigeria,Doctorate,Business & Management,Healthcare,Clinical & laboratory researchers,2
+Nigeria,Doctorate,Business & Management,Healthcare,Healthcare administrators,6
+Nigeria,Doctorate,Business & Management,Professional & Consulting Services,Management consultants,14
+Nigeria,Doctorate,Business & Management,Professional & Consulting Services,Economists & policy analysts,6
+Nigeria,Doctorate,Business & Management,Other industries,Other occupations,2
+Nigeria,Doctorate,Mathematics & Statistics,Technology,Software developers,3
+Nigeria,Doctorate,Mathematics & Statistics,Technology,Data scientists,7
+Nigeria,Doctorate,Mathematics & Statistics,Technology,IT & network specialists,3
+Nigeria,Doctorate,Mathematics & Statistics,Finance & Insurance,Financial analysts,4
+Nigeria,Doctorate,Mathematics & Statistics,Finance & Insurance,Actuaries & quantitative analysts,12
+Nigeria,Doctorate,Mathematics & Statistics,Finance & Insurance,Accountants & auditors,4
+Nigeria,Doctorate,Mathematics & Statistics,Healthcare,Clinical & laboratory researchers,1
+Nigeria,Doctorate,Mathematics & Statistics,Higher Education & Research,Postsecondary teachers,1
+Nigeria,Doctorate,Mathematics & Statistics,Higher Education & Research,Research scientists,4
+Nigeria,Doctorate,Mathematics & Statistics,Professional & Consulting Services,Management consultants,1
+Nigeria,Doctorate,Mathematics & Statistics,Professional & Consulting Services,Economists & policy analysts,1
+Nigeria,Doctorate,Life & Health Sciences,Technology,Software developers,1
+Nigeria,Doctorate,Life & Health Sciences,Technology,Data scientists,1
+Nigeria,Doctorate,Life & Health Sciences,Technology,IT & network specialists,1
+Nigeria,Doctorate,Life & Health Sciences,Manufacturing,Mechanical & industrial engineers,3
+Nigeria,Doctorate,Life & Health Sciences,Manufacturing,Electrical engineers,5
+Nigeria,Doctorate,Life & Health Sciences,Manufacturing,Production managers,5
+Nigeria,Doctorate,Life & Health Sciences,Healthcare,Clinical & laboratory researchers,48
+Nigeria,Doctorate,Life & Health Sciences,Healthcare,Healthcare administrators,19
+Nigeria,Doctorate,Life & Health Sciences,Higher Education & Research,Postsecondary teachers,8
+Nigeria,Doctorate,Life & Health Sciences,Higher Education & Research,Research scientists,31
+Nigeria,Doctorate,Life & Health Sciences,Professional & Consulting Services,Management consultants,1
+Nigeria,Doctorate,Life & Health Sciences,Professional & Consulting Services,Economists & policy analysts,1
+Nigeria,Doctorate,Life & Health Sciences,Other industries,Other occupations,2
+Nigeria,Doctorate,Social Sciences,Technology,Software developers,2
+Nigeria,Doctorate,Social Sciences,Technology,Data scientists,2
+Nigeria,Doctorate,Social Sciences,Technology,IT & network specialists,2
+Nigeria,Doctorate,Social Sciences,Finance & Insurance,Financial analysts,3
+Nigeria,Doctorate,Social Sciences,Finance & Insurance,Actuaries & quantitative analysts,5
+Nigeria,Doctorate,Social Sciences,Finance & Insurance,Accountants & auditors,3
+Nigeria,Doctorate,Social Sciences,Healthcare,Clinical & laboratory researchers,2
+Nigeria,Doctorate,Social Sciences,Healthcare,Healthcare administrators,8
+Nigeria,Doctorate,Social Sciences,Higher Education & Research,Postsecondary teachers,9
+Nigeria,Doctorate,Social Sciences,Higher Education & Research,Research scientists,6
+Nigeria,Doctorate,Social Sciences,Professional & Consulting Services,Management consultants,13
+Nigeria,Doctorate,Social Sciences,Professional & Consulting Services,Economists & policy analysts,36
+Nigeria,Doctorate,Social Sciences,Other industries,Other occupations,8
+Brazil,Bachelor's,Computer & Information Sciences,Technology,Software developers,331
+Brazil,Bachelor's,Computer & Information Sciences,Technology,Data scientists,366
+Brazil,Bachelor's,Computer & Information Sciences,Technology,IT & network specialists,243
+Brazil,Bachelor's,Computer & Information Sciences,Finance & Insurance,Financial analysts,23
+Brazil,Bachelor's,Computer & Information Sciences,Finance & Insurance,Actuaries & quantitative analysts,27
+Brazil,Bachelor's,Computer & Information Sciences,Finance & Insurance,Accountants & auditors,39
+Brazil,Bachelor's,Computer & Information Sciences,Manufacturing,Mechanical & industrial engineers,23
+Brazil,Bachelor's,Computer & Information Sciences,Manufacturing,Electrical engineers,18
+Brazil,Bachelor's,Computer & Information Sciences,Manufacturing,Production managers,18
+Brazil,Bachelor's,Computer & Information Sciences,Healthcare,Clinical & laboratory researchers,11
+Brazil,Bachelor's,Computer & Information Sciences,Healthcare,Healthcare administrators,7
+Brazil,Bachelor's,Computer & Information Sciences,Higher Education & Research,Postsecondary teachers,16
+Brazil,Bachelor's,Computer & Information Sciences,Higher Education & Research,Research scientists,14
+Brazil,Bachelor's,Computer & Information Sciences,Professional & Consulting Services,Management consultants,20
+Brazil,Bachelor's,Computer & Information Sciences,Professional & Consulting Services,Economists & policy analysts,32
+Brazil,Bachelor's,Computer & Information Sciences,Other industries,Other occupations,11
+Brazil,Bachelor's,Engineering,Technology,Software developers,131
+Brazil,Bachelor's,Engineering,Technology,Data scientists,33
+Brazil,Bachelor's,Engineering,Technology,IT & network specialists,37
+Brazil,Bachelor's,Engineering,Finance & Insurance,Financial analysts,5
+Brazil,Bachelor's,Engineering,Finance & Insurance,Actuaries & quantitative analysts,5
+Brazil,Bachelor's,Engineering,Finance & Insurance,Accountants & auditors,7
+Brazil,Bachelor's,Engineering,Manufacturing,Mechanical & industrial engineers,111
+Brazil,Bachelor's,Engineering,Manufacturing,Electrical engineers,178
+Brazil,Bachelor's,Engineering,Manufacturing,Production managers,42
+Brazil,Bachelor's,Engineering,Healthcare,Clinical & laboratory researchers,4
+Brazil,Bachelor's,Engineering,Healthcare,Healthcare administrators,6
+Brazil,Bachelor's,Engineering,Higher Education & Research,Postsecondary teachers,14
+Brazil,Bachelor's,Engineering,Higher Education & Research,Research scientists,19
+Brazil,Bachelor's,Engineering,Professional & Consulting Services,Management consultants,8
+Brazil,Bachelor's,Engineering,Professional & Consulting Services,Economists & policy analysts,13
+Brazil,Bachelor's,Engineering,Other industries,Other occupations,5
+Brazil,Bachelor's,Business & Management,Technology,Software developers,20
+Brazil,Bachelor's,Business & Management,Technology,Data scientists,28
+Brazil,Bachelor's,Business & Management,Technology,IT & network specialists,18
+Brazil,Bachelor's,Business & Management,Finance & Insurance,Financial analysts,168
+Brazil,Bachelor's,Business & Management,Finance & Insurance,Actuaries & quantitative analysts,65
+Brazil,Bachelor's,Business & Management,Finance & Insurance,Accountants & auditors,183
+Brazil,Bachelor's,Business & Management,Manufacturing,Mechanical & industrial engineers,14
+Brazil,Bachelor's,Business & Management,Manufacturing,Electrical engineers,14
+Brazil,Bachelor's,Business & Management,Manufacturing,Production managers,33
+Brazil,Bachelor's,Business & Management,Healthcare,Clinical & laboratory researchers,9
+Brazil,Bachelor's,Business & Management,Healthcare,Healthcare administrators,25
+Brazil,Bachelor's,Business & Management,Professional & Consulting Services,Management consultants,125
+Brazil,Bachelor's,Business & Management,Professional & Consulting Services,Economists & policy analysts,32
+Brazil,Bachelor's,Business & Management,Other industries,Other occupations,11
+Brazil,Bachelor's,Mathematics & Statistics,Technology,Software developers,43
+Brazil,Bachelor's,Mathematics & Statistics,Technology,Data scientists,105
+Brazil,Bachelor's,Mathematics & Statistics,Technology,IT & network specialists,39
+Brazil,Bachelor's,Mathematics & Statistics,Finance & Insurance,Financial analysts,36
+Brazil,Bachelor's,Mathematics & Statistics,Finance & Insurance,Actuaries & quantitative analysts,142
+Brazil,Bachelor's,Mathematics & Statistics,Finance & Insurance,Accountants & auditors,34
+Brazil,Bachelor's,Mathematics & Statistics,Manufacturing,Mechanical & industrial engineers,5
+Brazil,Bachelor's,Mathematics & Statistics,Manufacturing,Electrical engineers,5
+Brazil,Bachelor's,Mathematics & Statistics,Manufacturing,Production managers,4
+Brazil,Bachelor's,Mathematics & Statistics,Healthcare,Clinical & laboratory researchers,9
+Brazil,Bachelor's,Mathematics & Statistics,Healthcare,Healthcare administrators,8
+Brazil,Bachelor's,Mathematics & Statistics,Higher Education & Research,Postsecondary teachers,23
+Brazil,Bachelor's,Mathematics & Statistics,Higher Education & Research,Research scientists,89
+Brazil,Bachelor's,Mathematics & Statistics,Professional & Consulting Services,Management consultants,13
+Brazil,Bachelor's,Mathematics & Statistics,Professional & Consulting Services,Economists & policy analysts,13
+Brazil,Bachelor's,Life & Health Sciences,Technology,Software developers,2
+Brazil,Bachelor's,Life & Health Sciences,Technology,Data scientists,2
+Brazil,Bachelor's,Life & Health Sciences,Technology,IT & network specialists,3
+Brazil,Bachelor's,Life & Health Sciences,Manufacturing,Mechanical & industrial engineers,9
+Brazil,Bachelor's,Life & Health Sciences,Manufacturing,Electrical engineers,13
+Brazil,Bachelor's,Life & Health Sciences,Manufacturing,Production managers,7
+Brazil,Bachelor's,Life & Health Sciences,Healthcare,Clinical & laboratory researchers,150
+Brazil,Bachelor's,Life & Health Sciences,Healthcare,Healthcare administrators,41
+Brazil,Bachelor's,Life & Health Sciences,Higher Education & Research,Postsecondary teachers,24
+Brazil,Bachelor's,Life & Health Sciences,Higher Education & Research,Research scientists,65
+Brazil,Bachelor's,Life & Health Sciences,Professional & Consulting Services,Management consultants,4
+Brazil,Bachelor's,Life & Health Sciences,Professional & Consulting Services,Economists & policy analysts,2
+Brazil,Bachelor's,Life & Health Sciences,Other industries,Other occupations,8
+Brazil,Bachelor's,Social Sciences,Technology,Software developers,11
+Brazil,Bachelor's,Social Sciences,Technology,Data scientists,7
+Brazil,Bachelor's,Social Sciences,Technology,IT & network specialists,11
+Brazil,Bachelor's,Social Sciences,Finance & Insurance,Financial analysts,12
+Brazil,Bachelor's,Social Sciences,Finance & Insurance,Actuaries & quantitative analysts,23
+Brazil,Bachelor's,Social Sciences,Finance & Insurance,Accountants & auditors,17
+Brazil,Bachelor's,Social Sciences,Healthcare,Clinical & laboratory researchers,12
+Brazil,Bachelor's,Social Sciences,Healthcare,Healthcare administrators,38
+Brazil,Bachelor's,Social Sciences,Higher Education & Research,Postsecondary teachers,27
+Brazil,Bachelor's,Social Sciences,Higher Education & Research,Research scientists,27
+Brazil,Bachelor's,Social Sciences,Professional & Consulting Services,Management consultants,37
+Brazil,Bachelor's,Social Sciences,Professional & Consulting Services,Economists & policy analysts,176
+Brazil,Bachelor's,Social Sciences,Other industries,Other occupations,19
+Brazil,Master's,Computer & Information Sciences,Technology,Software developers,696
+Brazil,Master's,Computer & Information Sciences,Technology,Data scientists,757
+Brazil,Master's,Computer & Information Sciences,Technology,IT & network specialists,592
+Brazil,Master's,Computer & Information Sciences,Finance & Insurance,Financial analysts,75
+Brazil,Master's,Computer & Information Sciences,Finance & Insurance,Actuaries & quantitative analysts,55
+Brazil,Master's,Computer & Information Sciences,Finance & Insurance,Accountants & auditors,85
+Brazil,Master's,Computer & Information Sciences,Manufacturing,Mechanical & industrial engineers,22
+Brazil,Master's,Computer & Information Sciences,Manufacturing,Electrical engineers,38
+Brazil,Master's,Computer & Information Sciences,Manufacturing,Production managers,22
+Brazil,Master's,Computer & Information Sciences,Healthcare,Clinical & laboratory researchers,19
+Brazil,Master's,Computer & Information Sciences,Healthcare,Healthcare administrators,12
+Brazil,Master's,Computer & Information Sciences,Higher Education & Research,Postsecondary teachers,26
+Brazil,Master's,Computer & Information Sciences,Higher Education & Research,Research scientists,32
+Brazil,Master's,Computer & Information Sciences,Professional & Consulting Services,Management consultants,45
+Brazil,Master's,Computer & Information Sciences,Professional & Consulting Services,Economists & policy analysts,43
+Brazil,Master's,Computer & Information Sciences,Other industries,Other occupations,14
+Brazil,Master's,Engineering,Technology,Software developers,168
+Brazil,Master's,Engineering,Technology,Data scientists,84
+Brazil,Master's,Engineering,Technology,IT & network specialists,80
+Brazil,Master's,Engineering,Finance & Insurance,Financial analysts,12
+Brazil,Master's,Engineering,Finance & Insurance,Actuaries & quantitative analysts,13
+Brazil,Master's,Engineering,Finance & Insurance,Accountants & auditors,10
+Brazil,Master's,Engineering,Manufacturing,Mechanical & industrial engineers,329
+Brazil,Master's,Engineering,Manufacturing,Electrical engineers,325
+Brazil,Master's,Engineering,Manufacturing,Production managers,104
+Brazil,Master's,Engineering,Healthcare,Clinical & laboratory researchers,8
+Brazil,Master's,Engineering,Healthcare,Healthcare administrators,10
+Brazil,Master's,Engineering,Higher Education & Research,Postsecondary teachers,23
+Brazil,Master's,Engineering,Higher Education & Research,Research scientists,21
+Brazil,Master's,Engineering,Professional & Consulting Services,Management consultants,28
+Brazil,Master's,Engineering,Professional & Consulting Services,Economists & policy analysts,20
+Brazil,Master's,Engineering,Other industries,Other occupations,11
+Brazil,Master's,Business & Management,Technology,Software developers,29
+Brazil,Master's,Business & Management,Technology,Data scientists,26
+Brazil,Master's,Business & Management,Technology,IT & network specialists,41
+Brazil,Master's,Business & Management,Finance & Insurance,Financial analysts,292
+Brazil,Master's,Business & Management,Finance & Insurance,Actuaries & quantitative analysts,125
+Brazil,Master's,Business & Management,Finance & Insurance,Accountants & auditors,322
+Brazil,Master's,Business & Management,Manufacturing,Mechanical & industrial engineers,26
+Brazil,Master's,Business & Management,Manufacturing,Electrical engineers,34
+Brazil,Master's,Business & Management,Manufacturing,Production managers,93
+Brazil,Master's,Business & Management,Healthcare,Clinical & laboratory researchers,14
+Brazil,Master's,Business & Management,Healthcare,Healthcare administrators,48
+Brazil,Master's,Business & Management,Professional & Consulting Services,Management consultants,276
+Brazil,Master's,Business & Management,Professional & Consulting Services,Economists & policy analysts,63
+Brazil,Master's,Business & Management,Other industries,Other occupations,29
+Brazil,Master's,Mathematics & Statistics,Technology,Software developers,95
+Brazil,Master's,Mathematics & Statistics,Technology,Data scientists,193
+Brazil,Master's,Mathematics & Statistics,Technology,IT & network specialists,85
+Brazil,Master's,Mathematics & Statistics,Finance & Insurance,Financial analysts,107
+Brazil,Master's,Mathematics & Statistics,Finance & Insurance,Actuaries & quantitative analysts,254
+Brazil,Master's,Mathematics & Statistics,Finance & Insurance,Accountants & auditors,109
+Brazil,Master's,Mathematics & Statistics,Manufacturing,Mechanical & industrial engineers,11
+Brazil,Master's,Mathematics & Statistics,Manufacturing,Electrical engineers,7
+Brazil,Master's,Mathematics & Statistics,Manufacturing,Production managers,9
+Brazil,Master's,Mathematics & Statistics,Healthcare,Clinical & laboratory researchers,10
+Brazil,Master's,Mathematics & Statistics,Healthcare,Healthcare administrators,14
+Brazil,Master's,Mathematics & Statistics,Higher Education & Research,Postsecondary teachers,43
+Brazil,Master's,Mathematics & Statistics,Higher Education & Research,Research scientists,157
+Brazil,Master's,Mathematics & Statistics,Professional & Consulting Services,Management consultants,28
+Brazil,Master's,Mathematics & Statistics,Professional & Consulting Services,Economists & policy analysts,35
+Brazil,Master's,Life & Health Sciences,Technology,Software developers,4
+Brazil,Master's,Life & Health Sciences,Technology,Data scientists,6
+Brazil,Master's,Life & Health Sciences,Technology,IT & network specialists,4
+Brazil,Master's,Life & Health Sciences,Manufacturing,Mechanical & industrial engineers,14
+Brazil,Master's,Life & Health Sciences,Manufacturing,Electrical engineers,20
+Brazil,Master's,Life & Health Sciences,Manufacturing,Production managers,20
+Brazil,Master's,Life & Health Sciences,Healthcare,Clinical & laboratory researchers,197
+Brazil,Master's,Life & Health Sciences,Healthcare,Healthcare administrators,89
+Brazil,Master's,Life & Health Sciences,Higher Education & Research,Postsecondary teachers,60
+Brazil,Master's,Life & Health Sciences,Higher Education & Research,Research scientists,137
+Brazil,Master's,Life & Health Sciences,Professional & Consulting Services,Management consultants,4
+Brazil,Master's,Life & Health Sciences,Professional & Consulting Services,Economists & policy analysts,4
+Brazil,Master's,Life & Health Sciences,Other industries,Other occupations,14
+Brazil,Master's,Social Sciences,Technology,Software developers,13
+Brazil,Master's,Social Sciences,Technology,Data scientists,18
+Brazil,Master's,Social Sciences,Technology,IT & network specialists,13
+Brazil,Master's,Social Sciences,Finance & Insurance,Financial analysts,34
+Brazil,Master's,Social Sciences,Finance & Insurance,Actuaries & quantitative analysts,38
+Brazil,Master's,Social Sciences,Finance & Insurance,Accountants & auditors,33
+Brazil,Master's,Social Sciences,Healthcare,Clinical & laboratory researchers,31
+Brazil,Master's,Social Sciences,Healthcare,Healthcare administrators,97
+Brazil,Master's,Social Sciences,Higher Education & Research,Postsecondary teachers,83
+Brazil,Master's,Social Sciences,Higher Education & Research,Research scientists,45
+Brazil,Master's,Social Sciences,Professional & Consulting Services,Management consultants,92
+Brazil,Master's,Social Sciences,Professional & Consulting Services,Economists & policy analysts,192
+Brazil,Master's,Social Sciences,Other industries,Other occupations,58
+Brazil,Doctorate,Computer & Information Sciences,Technology,Software developers,145
+Brazil,Doctorate,Computer & Information Sciences,Technology,Data scientists,204
+Brazil,Doctorate,Computer & Information Sciences,Technology,IT & network specialists,165
+Brazil,Doctorate,Computer & Information Sciences,Finance & Insurance,Financial analysts,13
+Brazil,Doctorate,Computer & Information Sciences,Finance & Insurance,Actuaries & quantitative analysts,13
+Brazil,Doctorate,Computer & Information Sciences,Finance & Insurance,Accountants & auditors,14
+Brazil,Doctorate,Computer & Information Sciences,Manufacturing,Mechanical & industrial engineers,8
+Brazil,Doctorate,Computer & Information Sciences,Manufacturing,Electrical engineers,6
+Brazil,Doctorate,Computer & Information Sciences,Manufacturing,Production managers,11
+Brazil,Doctorate,Computer & Information Sciences,Healthcare,Clinical & laboratory researchers,3
+Brazil,Doctorate,Computer & Information Sciences,Healthcare,Healthcare administrators,4
+Brazil,Doctorate,Computer & Information Sciences,Higher Education & Research,Postsecondary teachers,6
+Brazil,Doctorate,Computer & Information Sciences,Higher Education & Research,Research scientists,9
+Brazil,Doctorate,Computer & Information Sciences,Professional & Consulting Services,Management consultants,11
+Brazil,Doctorate,Computer & Information Sciences,Professional & Consulting Services,Economists & policy analysts,16
+Brazil,Doctorate,Computer & Information Sciences,Other industries,Other occupations,3
+Brazil,Doctorate,Engineering,Technology,Software developers,38
+Brazil,Doctorate,Engineering,Technology,Data scientists,17
+Brazil,Doctorate,Engineering,Technology,IT & network specialists,21
+Brazil,Doctorate,Engineering,Finance & Insurance,Financial analysts,2
+Brazil,Doctorate,Engineering,Finance & Insurance,Actuaries & quantitative analysts,4
+Brazil,Doctorate,Engineering,Finance & Insurance,Accountants & auditors,3
+Brazil,Doctorate,Engineering,Manufacturing,Mechanical & industrial engineers,78
+Brazil,Doctorate,Engineering,Manufacturing,Electrical engineers,61
+Brazil,Doctorate,Engineering,Manufacturing,Production managers,22
+Brazil,Doctorate,Engineering,Healthcare,Clinical & laboratory researchers,4
+Brazil,Doctorate,Engineering,Healthcare,Healthcare administrators,4
+Brazil,Doctorate,Engineering,Higher Education & Research,Postsecondary teachers,8
+Brazil,Doctorate,Engineering,Higher Education & Research,Research scientists,10
+Brazil,Doctorate,Engineering,Professional & Consulting Services,Management consultants,5
+Brazil,Doctorate,Engineering,Professional & Consulting Services,Economists & policy analysts,6
+Brazil,Doctorate,Engineering,Other industries,Other occupations,3
+Brazil,Doctorate,Business & Management,Technology,Software developers,11
+Brazil,Doctorate,Business & Management,Technology,Data scientists,11
+Brazil,Doctorate,Business & Management,Technology,IT & network specialists,14
+Brazil,Doctorate,Business & Management,Finance & Insurance,Financial analysts,87
+Brazil,Doctorate,Business & Management,Finance & Insurance,Actuaries & quantitative analysts,37
+Brazil,Doctorate,Business & Management,Finance & Insurance,Accountants & auditors,56
+Brazil,Doctorate,Business & Management,Manufacturing,Mechanical & industrial engineers,8
+Brazil,Doctorate,Business & Management,Manufacturing,Electrical engineers,9
+Brazil,Doctorate,Business & Management,Manufacturing,Production managers,28
+Brazil,Doctorate,Business & Management,Healthcare,Clinical & laboratory researchers,4
+Brazil,Doctorate,Business & Management,Healthcare,Healthcare administrators,19
+Brazil,Doctorate,Business & Management,Professional & Consulting Services,Management consultants,44
+Brazil,Doctorate,Business & Management,Professional & Consulting Services,Economists & policy analysts,21
+Brazil,Doctorate,Business & Management,Other industries,Other occupations,6
+Brazil,Doctorate,Mathematics & Statistics,Technology,Software developers,16
+Brazil,Doctorate,Mathematics & Statistics,Technology,Data scientists,64
+Brazil,Doctorate,Mathematics & Statistics,Technology,IT & network specialists,14
+Brazil,Doctorate,Mathematics & Statistics,Finance & Insurance,Financial analysts,30
+Brazil,Doctorate,Mathematics & Statistics,Finance & Insurance,Actuaries & quantitative analysts,52
+Brazil,Doctorate,Mathematics & Statistics,Finance & Insurance,Accountants & auditors,28
+Brazil,Doctorate,Mathematics & Statistics,Manufacturing,Mechanical & industrial engineers,2
+Brazil,Doctorate,Mathematics & Statistics,Manufacturing,Electrical engineers,2
+Brazil,Doctorate,Mathematics & Statistics,Manufacturing,Production managers,2
+Brazil,Doctorate,Mathematics & Statistics,Healthcare,Clinical & laboratory researchers,3
+Brazil,Doctorate,Mathematics & Statistics,Healthcare,Healthcare administrators,3
+Brazil,Doctorate,Mathematics & Statistics,Higher Education & Research,Postsecondary teachers,8
+Brazil,Doctorate,Mathematics & Statistics,Higher Education & Research,Research scientists,37
+Brazil,Doctorate,Mathematics & Statistics,Professional & Consulting Services,Management consultants,6
+Brazil,Doctorate,Mathematics & Statistics,Professional & Consulting Services,Economists & policy analysts,10
+Brazil,Doctorate,Life & Health Sciences,Technology,Software developers,1
+Brazil,Doctorate,Life & Health Sciences,Technology,Data scientists,2
+Brazil,Doctorate,Life & Health Sciences,Technology,IT & network specialists,1
+Brazil,Doctorate,Life & Health Sciences,Manufacturing,Mechanical & industrial engineers,5
+Brazil,Doctorate,Life & Health Sciences,Manufacturing,Electrical engineers,3
+Brazil,Doctorate,Life & Health Sciences,Manufacturing,Production managers,4
+Brazil,Doctorate,Life & Health Sciences,Healthcare,Clinical & laboratory researchers,69
+Brazil,Doctorate,Life & Health Sciences,Healthcare,Healthcare administrators,21
+Brazil,Doctorate,Life & Health Sciences,Higher Education & Research,Postsecondary teachers,12
+Brazil,Doctorate,Life & Health Sciences,Higher Education & Research,Research scientists,45
+Brazil,Doctorate,Life & Health Sciences,Professional & Consulting Services,Management consultants,1
+Brazil,Doctorate,Life & Health Sciences,Professional & Consulting Services,Economists & policy analysts,2
+Brazil,Doctorate,Life & Health Sciences,Other industries,Other occupations,2
+Brazil,Doctorate,Social Sciences,Technology,Software developers,4
+Brazil,Doctorate,Social Sciences,Technology,Data scientists,6
+Brazil,Doctorate,Social Sciences,Technology,IT & network specialists,5
+Brazil,Doctorate,Social Sciences,Finance & Insurance,Financial analysts,10
+Brazil,Doctorate,Social Sciences,Finance & Insurance,Actuaries & quantitative analysts,11
+Brazil,Doctorate,Social Sciences,Finance & Insurance,Accountants & auditors,6
+Brazil,Doctorate,Social Sciences,Healthcare,Clinical & laboratory researchers,7
+Brazil,Doctorate,Social Sciences,Healthcare,Healthcare administrators,22
+Brazil,Doctorate,Social Sciences,Higher Education & Research,Postsecondary teachers,14
+Brazil,Doctorate,Social Sciences,Higher Education & Research,Research scientists,15
+Brazil,Doctorate,Social Sciences,Professional & Consulting Services,Management consultants,28
+Brazil,Doctorate,Social Sciences,Professional & Consulting Services,Economists & policy analysts,46
+Brazil,Doctorate,Social Sciences,Other industries,Other occupations,13
+Canada,Bachelor's,Computer & Information Sciences,Technology,Software developers,66
+Canada,Bachelor's,Computer & Information Sciences,Technology,Data scientists,48
+Canada,Bachelor's,Computer & Information Sciences,Technology,IT & network specialists,51
+Canada,Bachelor's,Computer & Information Sciences,Finance & Insurance,Financial analysts,7
+Canada,Bachelor's,Computer & Information Sciences,Finance & Insurance,Actuaries & quantitative analysts,4
+Canada,Bachelor's,Computer & Information Sciences,Finance & Insurance,Accountants & auditors,4
+Canada,Bachelor's,Computer & Information Sciences,Manufacturing,Mechanical & industrial engineers,2
+Canada,Bachelor's,Computer & Information Sciences,Manufacturing,Electrical engineers,3
+Canada,Bachelor's,Computer & Information Sciences,Manufacturing,Production managers,3
+Canada,Bachelor's,Computer & Information Sciences,Healthcare,Clinical & laboratory researchers,2
+Canada,Bachelor's,Computer & Information Sciences,Healthcare,Healthcare administrators,1
+Canada,Bachelor's,Computer & Information Sciences,Higher Education & Research,Postsecondary teachers,2
+Canada,Bachelor's,Computer & Information Sciences,Higher Education & Research,Research scientists,2
+Canada,Bachelor's,Computer & Information Sciences,Professional & Consulting Services,Management consultants,4
+Canada,Bachelor's,Computer & Information Sciences,Professional & Consulting Services,Economists & policy analysts,4
+Canada,Bachelor's,Computer & Information Sciences,Other industries,Other occupations,1
+Canada,Bachelor's,Engineering,Technology,Software developers,23
+Canada,Bachelor's,Engineering,Technology,Data scientists,9
+Canada,Bachelor's,Engineering,Technology,IT & network specialists,7
+Canada,Bachelor's,Engineering,Finance & Insurance,Financial analysts,2
+Canada,Bachelor's,Engineering,Finance & Insurance,Actuaries & quantitative analysts,2
+Canada,Bachelor's,Engineering,Finance & Insurance,Accountants & auditors,2
+Canada,Bachelor's,Engineering,Manufacturing,Mechanical & industrial engineers,27
+Canada,Bachelor's,Engineering,Manufacturing,Electrical engineers,32
+Canada,Bachelor's,Engineering,Manufacturing,Production managers,12
+Canada,Bachelor's,Engineering,Healthcare,Clinical & laboratory researchers,1
+Canada,Bachelor's,Engineering,Healthcare,Healthcare administrators,2
+Canada,Bachelor's,Engineering,Higher Education & Research,Postsecondary teachers,4
+Canada,Bachelor's,Engineering,Higher Education & Research,Research scientists,3
+Canada,Bachelor's,Engineering,Professional & Consulting Services,Management consultants,2
+Canada,Bachelor's,Engineering,Professional & Consulting Services,Economists & policy analysts,2
+Canada,Bachelor's,Engineering,Other industries,Other occupations,1
+Canada,Bachelor's,Business & Management,Technology,Software developers,17
+Canada,Bachelor's,Business & Management,Technology,Data scientists,16
+Canada,Bachelor's,Business & Management,Technology,IT & network specialists,19
+Canada,Bachelor's,Business & Management,Finance & Insurance,Financial analysts,161
+Canada,Bachelor's,Business & Management,Finance & Insurance,Actuaries & quantitative analysts,53
+Canada,Bachelor's,Business & Management,Finance & Insurance,Accountants & auditors,118
+Canada,Bachelor's,Business & Management,Manufacturing,Mechanical & industrial engineers,8
+Canada,Bachelor's,Business & Management,Manufacturing,Electrical engineers,14
+Canada,Bachelor's,Business & Management,Manufacturing,Production managers,34
+Canada,Bachelor's,Business & Management,Healthcare,Clinical & laboratory researchers,6
+Canada,Bachelor's,Business & Management,Healthcare,Healthcare administrators,17
+Canada,Bachelor's,Business & Management,Professional & Consulting Services,Management consultants,72
+Canada,Bachelor's,Business & Management,Professional & Consulting Services,Economists & policy analysts,33
+Canada,Bachelor's,Business & Management,Other industries,Other occupations,11
+Canada,Bachelor's,Mathematics & Statistics,Technology,Software developers,17
+Canada,Bachelor's,Mathematics & Statistics,Technology,Data scientists,53
+Canada,Bachelor's,Mathematics & Statistics,Technology,IT & network specialists,13
+Canada,Bachelor's,Mathematics & Statistics,Finance & Insurance,Financial analysts,15
+Canada,Bachelor's,Mathematics & Statistics,Finance & Insurance,Actuaries & quantitative analysts,48
+Canada,Bachelor's,Mathematics & Statistics,Finance & Insurance,Accountants & auditors,14
+Canada,Bachelor's,Mathematics & Statistics,Manufacturing,Mechanical & industrial engineers,2
+Canada,Bachelor's,Mathematics & Statistics,Manufacturing,Electrical engineers,2
+Canada,Bachelor's,Mathematics & Statistics,Manufacturing,Production managers,2
+Canada,Bachelor's,Mathematics & Statistics,Healthcare,Clinical & laboratory researchers,4
+Canada,Bachelor's,Mathematics & Statistics,Healthcare,Healthcare administrators,4
+Canada,Bachelor's,Mathematics & Statistics,Higher Education & Research,Postsecondary teachers,10
+Canada,Bachelor's,Mathematics & Statistics,Higher Education & Research,Research scientists,26
+Canada,Bachelor's,Mathematics & Statistics,Professional & Consulting Services,Management consultants,6
+Canada,Bachelor's,Mathematics & Statistics,Professional & Consulting Services,Economists & policy analysts,8
+Canada,Bachelor's,Life & Health Sciences,Technology,Software developers,2
+Canada,Bachelor's,Life & Health Sciences,Technology,Data scientists,3
+Canada,Bachelor's,Life & Health Sciences,Technology,IT & network specialists,2
+Canada,Bachelor's,Life & Health Sciences,Manufacturing,Mechanical & industrial engineers,9
+Canada,Bachelor's,Life & Health Sciences,Manufacturing,Electrical engineers,6
+Canada,Bachelor's,Life & Health Sciences,Manufacturing,Production managers,6
+Canada,Bachelor's,Life & Health Sciences,Healthcare,Clinical & laboratory researchers,64
+Canada,Bachelor's,Life & Health Sciences,Healthcare,Healthcare administrators,31
+Canada,Bachelor's,Life & Health Sciences,Higher Education & Research,Postsecondary teachers,30
+Canada,Bachelor's,Life & Health Sciences,Higher Education & Research,Research scientists,58
+Canada,Bachelor's,Life & Health Sciences,Professional & Consulting Services,Management consultants,2
+Canada,Bachelor's,Life & Health Sciences,Professional & Consulting Services,Economists & policy analysts,2
+Canada,Bachelor's,Life & Health Sciences,Other industries,Other occupations,4
+Canada,Bachelor's,Social Sciences,Technology,Software developers,1
+Canada,Bachelor's,Social Sciences,Technology,Data scientists,2
+Canada,Bachelor's,Social Sciences,Technology,IT & network specialists,2
+Canada,Bachelor's,Social Sciences,Finance & Insurance,Financial analysts,4
+Canada,Bachelor's,Social Sciences,Finance & Insurance,Actuaries & quantitative analysts,3
+Canada,Bachelor's,Social Sciences,Finance & Insurance,Accountants & auditors,4
+Canada,Bachelor's,Social Sciences,Healthcare,Clinical & laboratory researchers,3
+Canada,Bachelor's,Social Sciences,Healthcare,Healthcare administrators,10
+Canada,Bachelor's,Social Sciences,Higher Education & Research,Postsecondary teachers,6
+Canada,Bachelor's,Social Sciences,Higher Education & Research,Research scientists,7
+Canada,Bachelor's,Social Sciences,Professional & Consulting Services,Management consultants,12
+Canada,Bachelor's,Social Sciences,Professional & Consulting Services,Economists & policy analysts,36
+Canada,Bachelor's,Social Sciences,Other industries,Other occupations,4
+Canada,Master's,Computer & Information Sciences,Technology,Software developers,97
+Canada,Master's,Computer & Information Sciences,Technology,Data scientists,74
+Canada,Master's,Computer & Information Sciences,Technology,IT & network specialists,104
+Canada,Master's,Computer & Information Sciences,Finance & Insurance,Financial analysts,10
+Canada,Master's,Computer & Information Sciences,Finance & Insurance,Actuaries & quantitative analysts,13
+Canada,Master's,Computer & Information Sciences,Finance & Insurance,Accountants & auditors,8
+Canada,Master's,Computer & Information Sciences,Manufacturing,Mechanical & industrial engineers,6
+Canada,Master's,Computer & Information Sciences,Manufacturing,Electrical engineers,4
+Canada,Master's,Computer & Information Sciences,Manufacturing,Production managers,3
+Canada,Master's,Computer & Information Sciences,Healthcare,Clinical & laboratory researchers,3
+Canada,Master's,Computer & Information Sciences,Healthcare,Healthcare administrators,2
+Canada,Master's,Computer & Information Sciences,Higher Education & Research,Postsecondary teachers,5
+Canada,Master's,Computer & Information Sciences,Higher Education & Research,Research scientists,4
+Canada,Master's,Computer & Information Sciences,Professional & Consulting Services,Management consultants,8
+Canada,Master's,Computer & Information Sciences,Professional & Consulting Services,Economists & policy analysts,10
+Canada,Master's,Computer & Information Sciences,Other industries,Other occupations,2
+Canada,Master's,Engineering,Technology,Software developers,45
+Canada,Master's,Engineering,Technology,Data scientists,18
+Canada,Master's,Engineering,Technology,IT & network specialists,13
+Canada,Master's,Engineering,Finance & Insurance,Financial analysts,3
+Canada,Master's,Engineering,Finance & Insurance,Actuaries & quantitative analysts,2
+Canada,Master's,Engineering,Finance & Insurance,Accountants & auditors,2
+Canada,Master's,Engineering,Manufacturing,Mechanical & industrial engineers,66
+Canada,Master's,Engineering,Manufacturing,Electrical engineers,83
+Canada,Master's,Engineering,Manufacturing,Production managers,18
+Canada,Master's,Engineering,Healthcare,Clinical & laboratory researchers,3
+Canada,Master's,Engineering,Healthcare,Healthcare administrators,3
+Canada,Master's,Engineering,Higher Education & Research,Postsecondary teachers,10
+Canada,Master's,Engineering,Higher Education & Research,Research scientists,10
+Canada,Master's,Engineering,Professional & Consulting Services,Management consultants,4
+Canada,Master's,Engineering,Professional & Consulting Services,Economists & policy analysts,4
+Canada,Master's,Engineering,Other industries,Other occupations,3
+Canada,Master's,Business & Management,Technology,Software developers,31
+Canada,Master's,Business & Management,Technology,Data scientists,25
+Canada,Master's,Business & Management,Technology,IT & network specialists,26
+Canada,Master's,Business & Management,Finance & Insurance,Financial analysts,203
+Canada,Master's,Business & Management,Finance & Insurance,Actuaries & quantitative analysts,100
+Canada,Master's,Business & Management,Finance & Insurance,Accountants & auditors,168
+Canada,Master's,Business & Management,Manufacturing,Mechanical & industrial engineers,19
+Canada,Master's,Business & Management,Manufacturing,Electrical engineers,15
+Canada,Master's,Business & Management,Manufacturing,Production managers,58
+Canada,Master's,Business & Management,Healthcare,Clinical & laboratory researchers,18
+Canada,Master's,Business & Management,Healthcare,Healthcare administrators,40
+Canada,Master's,Business & Management,Professional & Consulting Services,Management consultants,191
+Canada,Master's,Business & Management,Professional & Consulting Services,Economists & policy analysts,44
+Canada,Master's,Business & Management,Other industries,Other occupations,22
+Canada,Master's,Mathematics & Statistics,Technology,Software developers,40
+Canada,Master's,Mathematics & Statistics,Technology,Data scientists,75
+Canada,Master's,Mathematics & Statistics,Technology,IT & network specialists,20
+Canada,Master's,Mathematics & Statistics,Finance & Insurance,Financial analysts,30
+Canada,Master's,Mathematics & Statistics,Finance & Insurance,Actuaries & quantitative analysts,122
+Canada,Master's,Mathematics & Statistics,Finance & Insurance,Accountants & auditors,35
+Canada,Master's,Mathematics & Statistics,Manufacturing,Mechanical & industrial engineers,3
+Canada,Master's,Mathematics & Statistics,Manufacturing,Electrical engineers,4
+Canada,Master's,Mathematics & Statistics,Manufacturing,Production managers,2
+Canada,Master's,Mathematics & Statistics,Healthcare,Clinical & laboratory researchers,5
+Canada,Master's,Mathematics & Statistics,Healthcare,Healthcare administrators,7
+Canada,Master's,Mathematics & Statistics,Higher Education & Research,Postsecondary teachers,24
+Canada,Master's,Mathematics & Statistics,Higher Education & Research,Research scientists,62
+Canada,Master's,Mathematics & Statistics,Professional & Consulting Services,Management consultants,14
+Canada,Master's,Mathematics & Statistics,Professional & Consulting Services,Economists & policy analysts,11
+Canada,Master's,Life & Health Sciences,Technology,Software developers,6
+Canada,Master's,Life & Health Sciences,Technology,Data scientists,3
+Canada,Master's,Life & Health Sciences,Technology,IT & network specialists,5
+Canada,Master's,Life & Health Sciences,Manufacturing,Mechanical & industrial engineers,17
+Canada,Master's,Life & Health Sciences,Manufacturing,Electrical engineers,9
+Canada,Master's,Life & Health Sciences,Manufacturing,Production managers,12
+Canada,Master's,Life & Health Sciences,Healthcare,Clinical & laboratory researchers,223
+Canada,Master's,Life & Health Sciences,Healthcare,Healthcare administrators,49
+Canada,Master's,Life & Health Sciences,Higher Education & Research,Postsecondary teachers,40
+Canada,Master's,Life & Health Sciences,Higher Education & Research,Research scientists,132
+Canada,Master's,Life & Health Sciences,Professional & Consulting Services,Management consultants,4
+Canada,Master's,Life & Health Sciences,Professional & Consulting Services,Economists & policy analysts,5
+Canada,Master's,Life & Health Sciences,Other industries,Other occupations,9
+Canada,Master's,Social Sciences,Technology,Software developers,4
+Canada,Master's,Social Sciences,Technology,Data scientists,2
+Canada,Master's,Social Sciences,Technology,IT & network specialists,4
+Canada,Master's,Social Sciences,Finance & Insurance,Financial analysts,5
+Canada,Master's,Social Sciences,Finance & Insurance,Actuaries & quantitative analysts,9
+Canada,Master's,Social Sciences,Finance & Insurance,Accountants & auditors,6
+Canada,Master's,Social Sciences,Healthcare,Clinical & laboratory researchers,6
+Canada,Master's,Social Sciences,Healthcare,Healthcare administrators,14
+Canada,Master's,Social Sciences,Higher Education & Research,Postsecondary teachers,9
+Canada,Master's,Social Sciences,Higher Education & Research,Research scientists,12
+Canada,Master's,Social Sciences,Professional & Consulting Services,Management consultants,13
+Canada,Master's,Social Sciences,Professional & Consulting Services,Economists & policy analysts,41
+Canada,Master's,Social Sciences,Other industries,Other occupations,12
+Canada,Doctorate,Computer & Information Sciences,Technology,Software developers,30
+Canada,Doctorate,Computer & Information Sciences,Technology,Data scientists,23
+Canada,Doctorate,Computer & Information Sciences,Technology,IT & network specialists,20
+Canada,Doctorate,Computer & Information Sciences,Finance & Insurance,Financial analysts,3
+Canada,Doctorate,Computer & Information Sciences,Finance & Insurance,Actuaries & quantitative analysts,3
+Canada,Doctorate,Computer & Information Sciences,Finance & Insurance,Accountants & auditors,4
+Canada,Doctorate,Computer & Information Sciences,Manufacturing,Mechanical & industrial engineers,1
+Canada,Doctorate,Computer & Information Sciences,Manufacturing,Electrical engineers,1
+Canada,Doctorate,Computer & Information Sciences,Manufacturing,Production managers,1
+Canada,Doctorate,Computer & Information Sciences,Healthcare,Clinical & laboratory researchers,1
+Canada,Doctorate,Computer & Information Sciences,Healthcare,Healthcare administrators,1
+Canada,Doctorate,Computer & Information Sciences,Higher Education & Research,Postsecondary teachers,2
+Canada,Doctorate,Computer & Information Sciences,Higher Education & Research,Research scientists,1
+Canada,Doctorate,Computer & Information Sciences,Professional & Consulting Services,Management consultants,2
+Canada,Doctorate,Computer & Information Sciences,Professional & Consulting Services,Economists & policy analysts,3
+Canada,Doctorate,Computer & Information Sciences,Other industries,Other occupations,1
+Canada,Doctorate,Engineering,Technology,Software developers,11
+Canada,Doctorate,Engineering,Technology,Data scientists,4
+Canada,Doctorate,Engineering,Technology,IT & network specialists,4
+Canada,Doctorate,Engineering,Finance & Insurance,Financial analysts,1
+Canada,Doctorate,Engineering,Finance & Insurance,Actuaries & quantitative analysts,1
+Canada,Doctorate,Engineering,Finance & Insurance,Accountants & auditors,1
+Canada,Doctorate,Engineering,Manufacturing,Mechanical & industrial engineers,11
+Canada,Doctorate,Engineering,Manufacturing,Electrical engineers,19
+Canada,Doctorate,Engineering,Manufacturing,Production managers,4
+Canada,Doctorate,Engineering,Healthcare,Clinical & laboratory researchers,1
+Canada,Doctorate,Engineering,Healthcare,Healthcare administrators,1
+Canada,Doctorate,Engineering,Higher Education & Research,Postsecondary teachers,2
+Canada,Doctorate,Engineering,Higher Education & Research,Research scientists,2
+Canada,Doctorate,Engineering,Professional & Consulting Services,Management consultants,2
+Canada,Doctorate,Engineering,Professional & Consulting Services,Economists & policy analysts,1
+Canada,Doctorate,Engineering,Other industries,Other occupations,1
+Canada,Doctorate,Business & Management,Technology,Software developers,9
+Canada,Doctorate,Business & Management,Technology,Data scientists,5
+Canada,Doctorate,Business & Management,Technology,IT & network specialists,9
+Canada,Doctorate,Business & Management,Finance & Insurance,Financial analysts,71
+Canada,Doctorate,Business & Management,Finance & Insurance,Actuaries & quantitative analysts,19
+Canada,Doctorate,Business & Management,Finance & Insurance,Accountants & auditors,50
+Canada,Doctorate,Business & Management,Manufacturing,Mechanical & industrial engineers,6
+Canada,Doctorate,Business & Management,Manufacturing,Electrical engineers,5
+Canada,Doctorate,Business & Management,Manufacturing,Production managers,16
+Canada,Doctorate,Business & Management,Healthcare,Clinical & laboratory researchers,4
+Canada,Doctorate,Business & Management,Healthcare,Healthcare administrators,12
+Canada,Doctorate,Business & Management,Professional & Consulting Services,Management consultants,33
+Canada,Doctorate,Business & Management,Professional & Consulting Services,Economists & policy analysts,11
+Canada,Doctorate,Business & Management,Other industries,Other occupations,5
+Canada,Doctorate,Mathematics & Statistics,Technology,Software developers,6
+Canada,Doctorate,Mathematics & Statistics,Technology,Data scientists,19
+Canada,Doctorate,Mathematics & Statistics,Technology,IT & network specialists,6
+Canada,Doctorate,Mathematics & Statistics,Finance & Insurance,Financial analysts,7
+Canada,Doctorate,Mathematics & Statistics,Finance & Insurance,Actuaries & quantitative analysts,30
+Canada,Doctorate,Mathematics & Statistics,Finance & Insurance,Accountants & auditors,9
+Canada,Doctorate,Mathematics & Statistics,Manufacturing,Mechanical & industrial engineers,1
+Canada,Doctorate,Mathematics & Statistics,Manufacturing,Electrical engineers,1
+Canada,Doctorate,Mathematics & Statistics,Manufacturing,Production managers,1
+Canada,Doctorate,Mathematics & Statistics,Healthcare,Clinical & laboratory researchers,1
+Canada,Doctorate,Mathematics & Statistics,Healthcare,Healthcare administrators,1
+Canada,Doctorate,Mathematics & Statistics,Higher Education & Research,Postsecondary teachers,7
+Canada,Doctorate,Mathematics & Statistics,Higher Education & Research,Research scientists,11
+Canada,Doctorate,Mathematics & Statistics,Professional & Consulting Services,Management consultants,4
+Canada,Doctorate,Mathematics & Statistics,Professional & Consulting Services,Economists & policy analysts,3
+Canada,Doctorate,Life & Health Sciences,Technology,Software developers,1
+Canada,Doctorate,Life & Health Sciences,Technology,Data scientists,1
+Canada,Doctorate,Life & Health Sciences,Technology,IT & network specialists,1
+Canada,Doctorate,Life & Health Sciences,Manufacturing,Mechanical & industrial engineers,5
+Canada,Doctorate,Life & Health Sciences,Manufacturing,Electrical engineers,4
+Canada,Doctorate,Life & Health Sciences,Manufacturing,Production managers,3
+Canada,Doctorate,Life & Health Sciences,Healthcare,Clinical & laboratory researchers,56
+Canada,Doctorate,Life & Health Sciences,Healthcare,Healthcare administrators,13
+Canada,Doctorate,Life & Health Sciences,Higher Education & Research,Postsecondary teachers,10
+Canada,Doctorate,Life & Health Sciences,Higher Education & Research,Research scientists,45
+Canada,Doctorate,Life & Health Sciences,Professional & Consulting Services,Management consultants,1
+Canada,Doctorate,Life & Health Sciences,Professional & Consulting Services,Economists & policy analysts,1
+Canada,Doctorate,Life & Health Sciences,Other industries,Other occupations,2
+Canada,Doctorate,Social Sciences,Technology,Software developers,1
+Canada,Doctorate,Social Sciences,Technology,Data scientists,1
+Canada,Doctorate,Social Sciences,Technology,IT & network specialists,1
+Canada,Doctorate,Social Sciences,Finance & Insurance,Financial analysts,2
+Canada,Doctorate,Social Sciences,Finance & Insurance,Actuaries & quantitative analysts,1
+Canada,Doctorate,Social Sciences,Finance & Insurance,Accountants & auditors,2
+Canada,Doctorate,Social Sciences,Healthcare,Clinical & laboratory researchers,2
+Canada,Doctorate,Social Sciences,Healthcare,Healthcare administrators,3
+Canada,Doctorate,Social Sciences,Higher Education & Research,Postsecondary teachers,3
+Canada,Doctorate,Social Sciences,Higher Education & Research,Research scientists,5
+Canada,Doctorate,Social Sciences,Professional & Consulting Services,Management consultants,4
+Canada,Doctorate,Social Sciences,Professional & Consulting Services,Economists & policy analysts,9
+Canada,Doctorate,Social Sciences,Other industries,Other occupations,3
+All other countries,Bachelor's,Computer & Information Sciences,Technology,Software developers,75
+All other countries,Bachelor's,Computer & Information Sciences,Technology,Data scientists,95
+All other countries,Bachelor's,Computer & Information Sciences,Technology,IT & network specialists,111
+All other countries,Bachelor's,Computer & Information Sciences,Finance & Insurance,Financial analysts,9
+All other countries,Bachelor's,Computer & Information Sciences,Finance & Insurance,Actuaries & quantitative analysts,11
+All other countries,Bachelor's,Computer & Information Sciences,Finance & Insurance,Accountants & auditors,8
+All other countries,Bachelor's,Computer & Information Sciences,Manufacturing,Mechanical & industrial engineers,4
+All other countries,Bachelor's,Computer & Information Sciences,Manufacturing,Electrical engineers,5
+All other countries,Bachelor's,Computer & Information Sciences,Manufacturing,Production managers,3
+All other countries,Bachelor's,Computer & Information Sciences,Healthcare,Clinical & laboratory researchers,2
+All other countries,Bachelor's,Computer & Information Sciences,Healthcare,Healthcare administrators,3
+All other countries,Bachelor's,Computer & Information Sciences,Higher Education & Research,Postsecondary teachers,6
+All other countries,Bachelor's,Computer & Information Sciences,Higher Education & Research,Research scientists,4
+All other countries,Bachelor's,Computer & Information Sciences,Professional & Consulting Services,Management consultants,7
+All other countries,Bachelor's,Computer & Information Sciences,Professional & Consulting Services,Economists & policy analysts,5
+All other countries,Bachelor's,Computer & Information Sciences,Other industries,Other occupations,3
+All other countries,Bachelor's,Engineering,Technology,Software developers,44
+All other countries,Bachelor's,Engineering,Technology,Data scientists,14
+All other countries,Bachelor's,Engineering,Technology,IT & network specialists,24
+All other countries,Bachelor's,Engineering,Finance & Insurance,Financial analysts,3
+All other countries,Bachelor's,Engineering,Finance & Insurance,Actuaries & quantitative analysts,3
+All other countries,Bachelor's,Engineering,Finance & Insurance,Accountants & auditors,3
+All other countries,Bachelor's,Engineering,Manufacturing,Mechanical & industrial engineers,85
+All other countries,Bachelor's,Engineering,Manufacturing,Electrical engineers,90
+All other countries,Bachelor's,Engineering,Manufacturing,Production managers,35
+All other countries,Bachelor's,Engineering,Healthcare,Clinical & laboratory researchers,4
+All other countries,Bachelor's,Engineering,Healthcare,Healthcare administrators,4
+All other countries,Bachelor's,Engineering,Higher Education & Research,Postsecondary teachers,12
+All other countries,Bachelor's,Engineering,Higher Education & Research,Research scientists,13
+All other countries,Bachelor's,Engineering,Professional & Consulting Services,Management consultants,6
+All other countries,Bachelor's,Engineering,Professional & Consulting Services,Economists & policy analysts,7
+All other countries,Bachelor's,Engineering,Other industries,Other occupations,3
+All other countries,Bachelor's,Business & Management,Technology,Software developers,7
+All other countries,Bachelor's,Business & Management,Technology,Data scientists,7
+All other countries,Bachelor's,Business & Management,Technology,IT & network specialists,7
+All other countries,Bachelor's,Business & Management,Finance & Insurance,Financial analysts,54
+All other countries,Bachelor's,Business & Management,Finance & Insurance,Actuaries & quantitative analysts,16
+All other countries,Bachelor's,Business & Management,Finance & Insurance,Accountants & auditors,43
+All other countries,Bachelor's,Business & Management,Manufacturing,Mechanical & industrial engineers,6
+All other countries,Bachelor's,Business & Management,Manufacturing,Electrical engineers,4
+All other countries,Bachelor's,Business & Management,Manufacturing,Production managers,13
+All other countries,Bachelor's,Business & Management,Healthcare,Clinical & laboratory researchers,4
+All other countries,Bachelor's,Business & Management,Healthcare,Healthcare administrators,8
+All other countries,Bachelor's,Business & Management,Professional & Consulting Services,Management consultants,53
+All other countries,Bachelor's,Business & Management,Professional & Consulting Services,Economists & policy analysts,15
+All other countries,Bachelor's,Business & Management,Other industries,Other occupations,3
+All other countries,Bachelor's,Mathematics & Statistics,Technology,Software developers,12
+All other countries,Bachelor's,Mathematics & Statistics,Technology,Data scientists,41
+All other countries,Bachelor's,Mathematics & Statistics,Technology,IT & network specialists,12
+All other countries,Bachelor's,Mathematics & Statistics,Finance & Insurance,Financial analysts,8
+All other countries,Bachelor's,Mathematics & Statistics,Finance & Insurance,Actuaries & quantitative analysts,43
+All other countries,Bachelor's,Mathematics & Statistics,Finance & Insurance,Accountants & auditors,10
+All other countries,Bachelor's,Mathematics & Statistics,Manufacturing,Mechanical & industrial engineers,1
+All other countries,Bachelor's,Mathematics & Statistics,Manufacturing,Electrical engineers,1
+All other countries,Bachelor's,Mathematics & Statistics,Manufacturing,Production managers,1
+All other countries,Bachelor's,Mathematics & Statistics,Healthcare,Clinical & laboratory researchers,2
+All other countries,Bachelor's,Mathematics & Statistics,Healthcare,Healthcare administrators,2
+All other countries,Bachelor's,Mathematics & Statistics,Higher Education & Research,Postsecondary teachers,6
+All other countries,Bachelor's,Mathematics & Statistics,Higher Education & Research,Research scientists,16
+All other countries,Bachelor's,Mathematics & Statistics,Professional & Consulting Services,Management consultants,3
+All other countries,Bachelor's,Mathematics & Statistics,Professional & Consulting Services,Economists & policy analysts,3
+All other countries,Bachelor's,Life & Health Sciences,Technology,Software developers,2
+All other countries,Bachelor's,Life & Health Sciences,Technology,Data scientists,2
+All other countries,Bachelor's,Life & Health Sciences,Technology,IT & network specialists,1
+All other countries,Bachelor's,Life & Health Sciences,Manufacturing,Mechanical & industrial engineers,5
+All other countries,Bachelor's,Life & Health Sciences,Manufacturing,Electrical engineers,4
+All other countries,Bachelor's,Life & Health Sciences,Manufacturing,Production managers,6
+All other countries,Bachelor's,Life & Health Sciences,Healthcare,Clinical & laboratory researchers,64
+All other countries,Bachelor's,Life & Health Sciences,Healthcare,Healthcare administrators,13
+All other countries,Bachelor's,Life & Health Sciences,Higher Education & Research,Postsecondary teachers,17
+All other countries,Bachelor's,Life & Health Sciences,Higher Education & Research,Research scientists,52
+All other countries,Bachelor's,Life & Health Sciences,Professional & Consulting Services,Management consultants,2
+All other countries,Bachelor's,Life & Health Sciences,Professional & Consulting Services,Economists & policy analysts,1
+All other countries,Bachelor's,Life & Health Sciences,Other industries,Other occupations,4
+All other countries,Bachelor's,Social Sciences,Technology,Software developers,4
+All other countries,Bachelor's,Social Sciences,Technology,Data scientists,5
+All other countries,Bachelor's,Social Sciences,Technology,IT & network specialists,6
+All other countries,Bachelor's,Social Sciences,Finance & Insurance,Financial analysts,11
+All other countries,Bachelor's,Social Sciences,Finance & Insurance,Actuaries & quantitative analysts,11
+All other countries,Bachelor's,Social Sciences,Finance & Insurance,Accountants & auditors,10
+All other countries,Bachelor's,Social Sciences,Healthcare,Clinical & laboratory researchers,6
+All other countries,Bachelor's,Social Sciences,Healthcare,Healthcare administrators,27
+All other countries,Bachelor's,Social Sciences,Higher Education & Research,Postsecondary teachers,21
+All other countries,Bachelor's,Social Sciences,Higher Education & Research,Research scientists,22
+All other countries,Bachelor's,Social Sciences,Professional & Consulting Services,Management consultants,22
+All other countries,Bachelor's,Social Sciences,Professional & Consulting Services,Economists & policy analysts,79
+All other countries,Bachelor's,Social Sciences,Other industries,Other occupations,17
+All other countries,Master's,Computer & Information Sciences,Technology,Software developers,143
+All other countries,Master's,Computer & Information Sciences,Technology,Data scientists,181
+All other countries,Master's,Computer & Information Sciences,Technology,IT & network specialists,200
+All other countries,Master's,Computer & Information Sciences,Finance & Insurance,Financial analysts,19
+All other countries,Master's,Computer & Information Sciences,Finance & Insurance,Actuaries & quantitative analysts,12
+All other countries,Master's,Computer & Information Sciences,Finance & Insurance,Accountants & auditors,14
+All other countries,Master's,Computer & Information Sciences,Manufacturing,Mechanical & industrial engineers,6
+All other countries,Master's,Computer & Information Sciences,Manufacturing,Electrical engineers,12
+All other countries,Master's,Computer & Information Sciences,Manufacturing,Production managers,7
+All other countries,Master's,Computer & Information Sciences,Healthcare,Clinical & laboratory researchers,3
+All other countries,Master's,Computer & Information Sciences,Healthcare,Healthcare administrators,6
+All other countries,Master's,Computer & Information Sciences,Higher Education & Research,Postsecondary teachers,11
+All other countries,Master's,Computer & Information Sciences,Higher Education & Research,Research scientists,10
+All other countries,Master's,Computer & Information Sciences,Professional & Consulting Services,Management consultants,12
+All other countries,Master's,Computer & Information Sciences,Professional & Consulting Services,Economists & policy analysts,17
+All other countries,Master's,Computer & Information Sciences,Other industries,Other occupations,4
+All other countries,Master's,Engineering,Technology,Software developers,76
+All other countries,Master's,Engineering,Technology,Data scientists,33
+All other countries,Master's,Engineering,Technology,IT & network specialists,50
+All other countries,Master's,Engineering,Finance & Insurance,Financial analysts,7
+All other countries,Master's,Engineering,Finance & Insurance,Actuaries & quantitative analysts,6
+All other countries,Master's,Engineering,Finance & Insurance,Accountants & auditors,7
+All other countries,Master's,Engineering,Manufacturing,Mechanical & industrial engineers,175
+All other countries,Master's,Engineering,Manufacturing,Electrical engineers,198
+All other countries,Master's,Engineering,Manufacturing,Production managers,57
+All other countries,Master's,Engineering,Healthcare,Clinical & laboratory researchers,7
+All other countries,Master's,Engineering,Healthcare,Healthcare administrators,8
+All other countries,Master's,Engineering,Higher Education & Research,Postsecondary teachers,15
+All other countries,Master's,Engineering,Higher Education & Research,Research scientists,17
+All other countries,Master's,Engineering,Professional & Consulting Services,Management consultants,11
+All other countries,Master's,Engineering,Professional & Consulting Services,Economists & policy analysts,11
+All other countries,Master's,Engineering,Other industries,Other occupations,8
+All other countries,Master's,Business & Management,Technology,Software developers,15
+All other countries,Master's,Business & Management,Technology,Data scientists,15
+All other countries,Master's,Business & Management,Technology,IT & network specialists,8
+All other countries,Master's,Business & Management,Finance & Insurance,Financial analysts,83
+All other countries,Master's,Business & Management,Finance & Insurance,Actuaries & quantitative analysts,38
+All other countries,Master's,Business & Management,Finance & Insurance,Accountants & auditors,108
+All other countries,Master's,Business & Management,Manufacturing,Mechanical & industrial engineers,9
+All other countries,Master's,Business & Management,Manufacturing,Electrical engineers,6
+All other countries,Master's,Business & Management,Manufacturing,Production managers,19
+All other countries,Master's,Business & Management,Healthcare,Clinical & laboratory researchers,8
+All other countries,Master's,Business & Management,Healthcare,Healthcare administrators,16
+All other countries,Master's,Business & Management,Professional & Consulting Services,Management consultants,47
+All other countries,Master's,Business & Management,Professional & Consulting Services,Economists & policy analysts,18
+All other countries,Master's,Business & Management,Other industries,Other occupations,10
+All other countries,Master's,Mathematics & Statistics,Technology,Software developers,22
+All other countries,Master's,Mathematics & Statistics,Technology,Data scientists,48
+All other countries,Master's,Mathematics & Statistics,Technology,IT & network specialists,20
+All other countries,Master's,Mathematics & Statistics,Finance & Insurance,Financial analysts,26
+All other countries,Master's,Mathematics & Statistics,Finance & Insurance,Actuaries & quantitative analysts,72
+All other countries,Master's,Mathematics & Statistics,Finance & Insurance,Accountants & auditors,19
+All other countries,Master's,Mathematics & Statistics,Manufacturing,Mechanical & industrial engineers,2
+All other countries,Master's,Mathematics & Statistics,Manufacturing,Electrical engineers,2
+All other countries,Master's,Mathematics & Statistics,Manufacturing,Production managers,2
+All other countries,Master's,Mathematics & Statistics,Healthcare,Clinical & laboratory researchers,4
+All other countries,Master's,Mathematics & Statistics,Healthcare,Healthcare administrators,3
+All other countries,Master's,Mathematics & Statistics,Higher Education & Research,Postsecondary teachers,13
+All other countries,Master's,Mathematics & Statistics,Higher Education & Research,Research scientists,25
+All other countries,Master's,Mathematics & Statistics,Professional & Consulting Services,Management consultants,5
+All other countries,Master's,Mathematics & Statistics,Professional & Consulting Services,Economists & policy analysts,8
+All other countries,Master's,Life & Health Sciences,Technology,Software developers,2
+All other countries,Master's,Life & Health Sciences,Technology,Data scientists,2
+All other countries,Master's,Life & Health Sciences,Technology,IT & network specialists,4
+All other countries,Master's,Life & Health Sciences,Manufacturing,Mechanical & industrial engineers,11
+All other countries,Master's,Life & Health Sciences,Manufacturing,Electrical engineers,11
+All other countries,Master's,Life & Health Sciences,Manufacturing,Production managers,7
+All other countries,Master's,Life & Health Sciences,Healthcare,Clinical & laboratory researchers,108
+All other countries,Master's,Life & Health Sciences,Healthcare,Healthcare administrators,36
+All other countries,Master's,Life & Health Sciences,Higher Education & Research,Postsecondary teachers,22
+All other countries,Master's,Life & Health Sciences,Higher Education & Research,Research scientists,53
+All other countries,Master's,Life & Health Sciences,Professional & Consulting Services,Management consultants,4
+All other countries,Master's,Life & Health Sciences,Professional & Consulting Services,Economists & policy analysts,4
+All other countries,Master's,Life & Health Sciences,Other industries,Other occupations,5
+All other countries,Master's,Social Sciences,Technology,Software developers,8
+All other countries,Master's,Social Sciences,Technology,Data scientists,10
+All other countries,Master's,Social Sciences,Technology,IT & network specialists,8
+All other countries,Master's,Social Sciences,Finance & Insurance,Financial analysts,12
+All other countries,Master's,Social Sciences,Finance & Insurance,Actuaries & quantitative analysts,19
+All other countries,Master's,Social Sciences,Finance & Insurance,Accountants & auditors,20
+All other countries,Master's,Social Sciences,Healthcare,Clinical & laboratory researchers,14
+All other countries,Master's,Social Sciences,Healthcare,Healthcare administrators,43
+All other countries,Master's,Social Sciences,Higher Education & Research,Postsecondary teachers,35
+All other countries,Master's,Social Sciences,Higher Education & Research,Research scientists,41
+All other countries,Master's,Social Sciences,Professional & Consulting Services,Management consultants,41
+All other countries,Master's,Social Sciences,Professional & Consulting Services,Economists & policy analysts,138
+All other countries,Master's,Social Sciences,Other industries,Other occupations,27
+All other countries,Doctorate,Computer & Information Sciences,Technology,Software developers,53
+All other countries,Doctorate,Computer & Information Sciences,Technology,Data scientists,34
+All other countries,Doctorate,Computer & Information Sciences,Technology,IT & network specialists,55
+All other countries,Doctorate,Computer & Information Sciences,Finance & Insurance,Financial analysts,6
+All other countries,Doctorate,Computer & Information Sciences,Finance & Insurance,Actuaries & quantitative analysts,6
+All other countries,Doctorate,Computer & Information Sciences,Finance & Insurance,Accountants & auditors,6
+All other countries,Doctorate,Computer & Information Sciences,Manufacturing,Mechanical & industrial engineers,3
+All other countries,Doctorate,Computer & Information Sciences,Manufacturing,Electrical engineers,2
+All other countries,Doctorate,Computer & Information Sciences,Manufacturing,Production managers,3
+All other countries,Doctorate,Computer & Information Sciences,Healthcare,Clinical & laboratory researchers,2
+All other countries,Doctorate,Computer & Information Sciences,Healthcare,Healthcare administrators,1
+All other countries,Doctorate,Computer & Information Sciences,Higher Education & Research,Postsecondary teachers,3
+All other countries,Doctorate,Computer & Information Sciences,Higher Education & Research,Research scientists,2
+All other countries,Doctorate,Computer & Information Sciences,Professional & Consulting Services,Management consultants,4
+All other countries,Doctorate,Computer & Information Sciences,Professional & Consulting Services,Economists & policy analysts,3
+All other countries,Doctorate,Computer & Information Sciences,Other industries,Other occupations,1
+All other countries,Doctorate,Engineering,Technology,Software developers,28
+All other countries,Doctorate,Engineering,Technology,Data scientists,9
+All other countries,Doctorate,Engineering,Technology,IT & network specialists,8
+All other countries,Doctorate,Engineering,Finance & Insurance,Financial analysts,1
+All other countries,Doctorate,Engineering,Finance & Insurance,Actuaries & quantitative analysts,2
+All other countries,Doctorate,Engineering,Finance & Insurance,Accountants & auditors,2
+All other countries,Doctorate,Engineering,Manufacturing,Mechanical & industrial engineers,33
+All other countries,Doctorate,Engineering,Manufacturing,Electrical engineers,36
+All other countries,Doctorate,Engineering,Manufacturing,Production managers,15
+All other countries,Doctorate,Engineering,Healthcare,Clinical & laboratory researchers,1
+All other countries,Doctorate,Engineering,Healthcare,Healthcare administrators,2
+All other countries,Doctorate,Engineering,Higher Education & Research,Postsecondary teachers,5
+All other countries,Doctorate,Engineering,Higher Education & Research,Research scientists,5
+All other countries,Doctorate,Engineering,Professional & Consulting Services,Management consultants,4
+All other countries,Doctorate,Engineering,Professional & Consulting Services,Economists & policy analysts,4
+All other countries,Doctorate,Engineering,Other industries,Other occupations,2
+All other countries,Doctorate,Business & Management,Technology,Software developers,4
+All other countries,Doctorate,Business & Management,Technology,Data scientists,3
+All other countries,Doctorate,Business & Management,Technology,IT & network specialists,3
+All other countries,Doctorate,Business & Management,Finance & Insurance,Financial analysts,26
+All other countries,Doctorate,Business & Management,Finance & Insurance,Actuaries & quantitative analysts,6
+All other countries,Doctorate,Business & Management,Finance & Insurance,Accountants & auditors,32
+All other countries,Doctorate,Business & Management,Manufacturing,Mechanical & industrial engineers,2
+All other countries,Doctorate,Business & Management,Manufacturing,Electrical engineers,2
+All other countries,Doctorate,Business & Management,Manufacturing,Production managers,7
+All other countries,Doctorate,Business & Management,Healthcare,Clinical & laboratory researchers,2
+All other countries,Doctorate,Business & Management,Healthcare,Healthcare administrators,4
+All other countries,Doctorate,Business & Management,Professional & Consulting Services,Management consultants,26
+All other countries,Doctorate,Business & Management,Professional & Consulting Services,Economists & policy analysts,7
+All other countries,Doctorate,Business & Management,Other industries,Other occupations,2
+All other countries,Doctorate,Mathematics & Statistics,Technology,Software developers,6
+All other countries,Doctorate,Mathematics & Statistics,Technology,Data scientists,18
+All other countries,Doctorate,Mathematics & Statistics,Technology,IT & network specialists,6
+All other countries,Doctorate,Mathematics & Statistics,Finance & Insurance,Financial analysts,6
+All other countries,Doctorate,Mathematics & Statistics,Finance & Insurance,Actuaries & quantitative analysts,16
+All other countries,Doctorate,Mathematics & Statistics,Finance & Insurance,Accountants & auditors,6
+All other countries,Doctorate,Mathematics & Statistics,Manufacturing,Mechanical & industrial engineers,1
+All other countries,Doctorate,Mathematics & Statistics,Healthcare,Clinical & laboratory researchers,1
+All other countries,Doctorate,Mathematics & Statistics,Healthcare,Healthcare administrators,1
+All other countries,Doctorate,Mathematics & Statistics,Higher Education & Research,Postsecondary teachers,4
+All other countries,Doctorate,Mathematics & Statistics,Higher Education & Research,Research scientists,11
+All other countries,Doctorate,Mathematics & Statistics,Professional & Consulting Services,Management consultants,2
+All other countries,Doctorate,Mathematics & Statistics,Professional & Consulting Services,Economists & policy analysts,1
+All other countries,Doctorate,Life & Health Sciences,Technology,Software developers,1
+All other countries,Doctorate,Life & Health Sciences,Technology,Data scientists,1
+All other countries,Doctorate,Life & Health Sciences,Technology,IT & network specialists,1
+All other countries,Doctorate,Life & Health Sciences,Manufacturing,Mechanical & industrial engineers,3
+All other countries,Doctorate,Life & Health Sciences,Manufacturing,Electrical engineers,2
+All other countries,Doctorate,Life & Health Sciences,Manufacturing,Production managers,3
+All other countries,Doctorate,Life & Health Sciences,Healthcare,Clinical & laboratory researchers,25
+All other countries,Doctorate,Life & Health Sciences,Healthcare,Healthcare administrators,12
+All other countries,Doctorate,Life & Health Sciences,Higher Education & Research,Postsecondary teachers,9
+All other countries,Doctorate,Life & Health Sciences,Higher Education & Research,Research scientists,28
+All other countries,Doctorate,Life & Health Sciences,Professional & Consulting Services,Management consultants,1
+All other countries,Doctorate,Life & Health Sciences,Professional & Consulting Services,Economists & policy analysts,1
+All other countries,Doctorate,Life & Health Sciences,Other industries,Other occupations,2
+All other countries,Doctorate,Social Sciences,Technology,Software developers,3
+All other countries,Doctorate,Social Sciences,Technology,Data scientists,1
+All other countries,Doctorate,Social Sciences,Technology,IT & network specialists,2
+All other countries,Doctorate,Social Sciences,Finance & Insurance,Financial analysts,6
+All other countries,Doctorate,Social Sciences,Finance & Insurance,Actuaries & quantitative analysts,3
+All other countries,Doctorate,Social Sciences,Finance & Insurance,Accountants & auditors,6
+All other countries,Doctorate,Social Sciences,Healthcare,Clinical & laboratory researchers,4
+All other countries,Doctorate,Social Sciences,Healthcare,Healthcare administrators,11
+All other countries,Doctorate,Social Sciences,Higher Education & Research,Postsecondary teachers,11
+All other countries,Doctorate,Social Sciences,Higher Education & Research,Research scientists,11
+All other countries,Doctorate,Social Sciences,Professional & Consulting Services,Management consultants,11
+All other countries,Doctorate,Social Sciences,Professional & Consulting Services,Economists & policy analysts,38
+All other countries,Doctorate,Social Sciences,Other industries,Other occupations,9

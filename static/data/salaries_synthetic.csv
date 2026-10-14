@@ -1,0 +1,37 @@
+field,degree_level,group,median_salary
+Computer & Information Sciences,Bachelor's,Domestic,79000
+Computer & Information Sciences,Bachelor's,International,80000
+Computer & Information Sciences,Master's,Domestic,100000
+Computer & Information Sciences,Master's,International,93500
+Computer & Information Sciences,Doctorate,Domestic,116500
+Computer & Information Sciences,Doctorate,International,110000
+Engineering,Bachelor's,Domestic,81000
+Engineering,Bachelor's,International,88000
+Engineering,Master's,Domestic,91500
+Engineering,Master's,International,92500
+Engineering,Doctorate,Domestic,103500
+Engineering,Doctorate,International,110000
+Business & Management,Bachelor's,Domestic,61000
+Business & Management,Bachelor's,International,66500
+Business & Management,Master's,Domestic,73000
+Business & Management,Master's,International,70000
+Business & Management,Doctorate,Domestic,84500
+Business & Management,Doctorate,International,83000
+Mathematics & Statistics,Bachelor's,Domestic,75500
+Mathematics & Statistics,Bachelor's,International,77500
+Mathematics & Statistics,Master's,Domestic,88500
+Mathematics & Statistics,Master's,International,88000
+Mathematics & Statistics,Doctorate,Domestic,96000
+Mathematics & Statistics,Doctorate,International,97000
+Life & Health Sciences,Bachelor's,Domestic,51500
+Life & Health Sciences,Bachelor's,International,53500
+Life & Health Sciences,Master's,Domestic,63500
+Life & Health Sciences,Master's,International,66000
+Life & Health Sciences,Doctorate,Domestic,76000
+Life & Health Sciences,Doctorate,International,77000
+Social Sciences,Bachelor's,Domestic,49000
+Social Sciences,Bachelor's,International,46500
+Social Sciences,Master's,Domestic,60000
+Social Sciences,Master's,International,62000
+Social Sciences,Doctorate,Domestic,65500
+Social Sciences,Doctorate,International,71000
